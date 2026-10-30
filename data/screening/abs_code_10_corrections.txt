@@ -1,0 +1,3 @@
+# Corrections found during the citation check: R0478 had been excluded at title stage (code N),
+# its abstract shows a security-oriented measurement of cross-chain transactions.
+0478 I M - 13 - MEAS R

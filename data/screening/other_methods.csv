@@ -1,0 +1,5 @@
+oid,title,year,venue,doi,arxiv,how_found,dec,type,stage,props,classes,tech,eval
+O001,Connector: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-Chain Transaction Association,2025,IEEE Trans. Inf. Forensics Secur.,10.1109/tifs.2025.3588249,,reference lists of included studies,I,D,S3,-,6,TRACE,R
+O002,EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems,2026,arXiv,,2609.07865,reference lists of included studies,I,D,S2,1,24,SA,R
+O003,CrossTrust-IoT: An Adaptive Reinforcement Learning Framework for Cross-Chain Trust in Resource-Constrained IoT Networks,2026,IEEE Internet Things J.,10.1109/jiot.2026.3671650,,earlier bibliography,I,D,S3,1,1,TRUST,E
+O004,DAVE-CC: A decentralized access-controlled verifiable ecosystem for cross-chain academic credential management,2025,J. Inf. Secur. Appl.,10.1016/j.jisa.2025.104238,,earlier bibliography,I,D,S1,47,7,AUTH,E

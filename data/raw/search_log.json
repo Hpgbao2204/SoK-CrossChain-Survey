@@ -1,0 +1,20 @@
+{
+  "boolean": "(blockchain OR \"distributed ledger\" OR DeFi OR \"smart contract\") AND (\"cross-chain\" OR crosschain OR \"cross-blockchain\" OR \"inter-blockchain\" OR \"blockchain bridge\" OR \"token bridge\" OR \"bridge protocol\" OR \"blockchain interoperability\" OR \"interoperability protocol\" OR \"atomic swap\" OR \"cross-ledger\" OR sidechain) AND (attack OR exploit OR vulnerability OR security OR secure OR anomaly OR hack OR privacy OR audit OR fraud OR \"formal verification\" OR trust)",
+  "openalex": {
+    "date": "2026-10-03",
+    "n": 2049,
+    "field": "title_and_abstract"
+  },
+  "arxiv": {
+    "date": "2026-10-03",
+    "n": 271,
+    "query": "(all:\"cross-chain\" OR all:crosschain OR all:\"cross-blockchain\" OR all:\"inter-blockchain\" OR all:\"blockchain bridge\" OR all:\"token bridge\" OR all:\"bridge protocol\" OR all:\"blockchain interoperability\" OR all:\"interoperability protocol\" OR all:\"atomic swap\" OR all:\"cross-ledger\" OR all:sidechain) AND (all:attack OR all:exploit OR all:vulnerability OR all:security OR all:secure OR all:anomaly OR all:hack OR all:privacy OR all:audit OR all:fraud OR all:\"formal verification\" OR all:trust)",
+    "field": "all"
+  },
+  "s2": {
+    "date": "2026-10-03",
+    "n": 1331,
+    "query": "(blockchain | \"distributed ledger\" | DeFi | \"smart contract\") + (\"cross-chain\" | crosschain | \"cross-blockchain\" | \"inter-blockchain\" | \"blockchain bridge\" | \"token bridge\" | \"bridge protocol\" | \"blockchain interoperability\" | \"interoperability protocol\" | \"atomic swap\" | \"cross-ledger\" | sidechain) + (attack | exploit | vulnerability | security | secure | anomaly | hack | privacy | audit | fraud | \"formal verification\" | trust)",
+    "field": "title_and_abstract (bulk)"
+  }
+}

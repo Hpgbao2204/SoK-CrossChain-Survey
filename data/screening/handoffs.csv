@@ -1,0 +1,8 @@
+id,title_short,from_stage,to_stage,artifact,kind
+R1488,IntentFuzz,S1,S2,protocol invariants separated from settlement exposures and fuzzed in code,H1-partial
+R0998,GoAT-X,S1,S2,abstract security properties linked to code during LLM-guided audit,H1-partial
+R1964,COBALT-TLA,S1,S2,TLA+ protocol specification checked against bridge models,H1-partial
+R0210,HighGuard,S1,S3,formal business-logic specification used directly as runtime monitor,spec-to-monitor
+R0272,Runtime verification MTL,S1,S3,temporal-logic properties of cross-chain protocols monitored at runtime,spec-to-monitor
+R1045,VeriBridge,S2,S3,static vulnerability findings injected into runtime graph detector,H2
+R0745,Count of Monte Crypto,S3,S1,accounting invariant found post hoc proposed for in-line enforcement in bridge design,H3-partial

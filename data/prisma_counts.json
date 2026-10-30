@@ -1,0 +1,29 @@
+{
+  "identified": 3651,
+  "by_source": {
+    "openalex": 2049,
+    "s2": 1331,
+    "arxiv": 271
+  },
+  "duplicates": 1612,
+  "rule_R1": 49,
+  "rule_R2": 489,
+  "screened": 1501,
+  "excluded_screening": 957,
+  "excluded_screening_title": 882,
+  "excluded_screening_abstract": {
+    "EA": 28,
+    "EN": 38,
+    "EO": 9
+  },
+  "assessed": 544,
+  "excluded_eligibility": {
+    "ED": 21,
+    "EI": 24,
+    "EQ": 74
+  },
+  "included_db": 425,
+  "other_identified": 4,
+  "other_excluded": 0,
+  "included_total": 429
+}

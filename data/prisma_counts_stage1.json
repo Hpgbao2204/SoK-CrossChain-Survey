@@ -1,0 +1,15 @@
+{
+  "identified": 3651,
+  "by_source": {
+    "openalex": 2049,
+    "s2": 1331,
+    "arxiv": 271
+  },
+  "duplicates_removed": 1612,
+  "unique": 2039,
+  "rules": {
+    "screen": 1501,
+    "R2": 489,
+    "R1": 49
+  }
+}

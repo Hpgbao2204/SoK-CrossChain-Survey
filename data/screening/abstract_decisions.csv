@@ -1,0 +1,620 @@
+rid,decision,title
+R0002,I,SoK: Security and Privacy of Blockchain Interoperability
+R0005,I,Privacy-Preserving Cross-Chain Atomic Swaps
+R0007,I,Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains
+R0008,I,SoK: Communication Across Distributed Ledgers
+R0009,I,Enabling Enterprise Blockchain Interoperability with Trusted Data Transfer (Industry Track)
+R0010,I,Security and Privacy Challenges in Blockchain Interoperability - A Multivocal Literature Review
+R0011,I,A survey on privacy preservation techniques for blockchain interoperability
+R0012,I,Hermes: Fault-tolerant middleware for blockchain interoperability
+R0013,I,Proof-of-Stake Sidechains
+R0014,EN,A New Consensus Protocol for Blockchain Interoperability Architecture
+R0015,I,InterTrust: Towards an Efficient Blockchain Interoperability Architecture with Trusted Services
+R0016,I,ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero
+R0019,I,Cross-Blockchain Technology: Integration Framework and Security Assumptions
+R0020,I,Sidechains With Fast Cross-Chain Transfers
+R0021,I,Atomic Crosschain Transactions for Ethereum Private Sidechains
+R0025,I,MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications
+R0030,I,Formal Verification of the Burn-to-Claim Blockchain Interoperable Protocol
+R0031,I,Burn-to-Claim: An asset transfer protocol for blockchain interoperability
+R0032,I,"Blockchain Security in Focus: A Comprehensive Investigation Into Threats, Smart Contract Security, Cross-Chain Bridges, and Vulnerabilities Detection Tools and Techniques"
+R0033,I,Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability
+R0034,EQ,"Trustless, privacy-preserving blockchain bridges"
+R0035,I,"Bool Network: An Open, Distributed, Secure Cross-Chain Notary Platform"
+R0036,I,Attacks Against Cross-Chain Systems and Defense Approaches: A Contemporary Survey
+R0041,I,SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks
+R0042,I,Proof-of-Work Sidechains
+R0044,I,"Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and Future Outlook"
+R0046,I,Xscope: Hunting for Cross-Chain Bridge Attacks
+R0049,I,DPNM: A Differential Private Notary Mechanism for Privacy Preservation in Cross-Chain Transactions
+R0051,I,SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis
+R0053,I,Enabling Cross-Chain Transactions: A Decentralized Cryptocurrency Exchange Protocol
+R0054,I,IvyCross: A Privacy-Preserving and Concurrency Control Framework for Blockchain Interoperability
+R0059,I,An Anonymous and Supervisory Cross-chain Privacy Protection Protocol for Zero-trust IoT Application
+R0060,I,Blockchain Interoperability: Performance and Security Trade-Offs
+R0061,I,Hedging Against Sore Loser Attacks in Cross-Chain Transactions
+R0064,EQ,A Comprehensive Overview of Security Vulnerability Penetration Methods in Blockchain Cross-Chain Bridges
+R0066,I,"Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems"
+R0067,I,A Secure Interoperability Management Scheme for Cross-Blockchain Transactions
+R0069,I,zkRelay: Facilitating Sidechains using zkSNARK-based Chain-Relays
+R0070,I,Security and Standardization of a Notary-based Blockchain Interoperability API
+R0071,I,A notary group-based cross-chain mechanism
+R0074,I,A post-quantum blockchain notary scheme for cross-blockchain exchange
+R0075,I,IBE-BCIOT: an IBE based cross-chain communication mechanism of blockchain in IoT
+R0079,I,AucSwap: A Vickrey auction modeled decentralized cross-blockchain asset transfer protocol
+R0080,ED,The Burn-to-Claim cross-blockchain asset transfer protocol
+R0081,I,Secure cross-chain interaction solution in multi-blockchain environment
+R0083,EI,Efficient blockchain interoperability design for cross-chain transactions in future internet-of-value
+R0085,ED,SoK: Security and Privacy of Blockchain Interoperability [Extended Version]
+R0088,I,Anonymous scheme for blockchain atomic swap based on zero-knowledge proof
+R0090,I,Securing Cross-Chain Asset Transfers on Permissioned Blockchains
+R0093,I,Privacy-Preserving Cross-Chain Payment Scheme for Blockchain-Enabled Energy Trading
+R0094,I,Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration
+R0095,I,Attack and protection schemes on fabric isomorphic crosschain systems
+R0096,I,Formal verification of the pub-sub blockchain interoperability protocol using stochastic timed automata
+R0098,I,PSSC: Practical and Secure Sidechain Construction for Heterogeneous Blockchains Orienting IoT
+R0104,EN,Cross-Chain Digital Asset System for Secure Trading and Payment
+R0108,I,DCIV: Decentralized cross-chain data integrity verification with blockchain
+R0109,I,AtomCI: A New System for the Atomic Cross-Chain Smart Contract Invocation Spanning Heterogeneous Blockchains
+R0110,I,BeDCV: Blockchain-Enabled Decentralized Consistency Verification for Cross-Chain Calculation
+R0111,I,ChainSniper: A Machine Learning Approach for Auditing Cross-Chain Smart Contracts
+R0113,I,Practical AgentChain: A compatible cross-chain exchange system
+R0114,I,CCIO: A Cross-Chain Interoperability Approach for Consortium Blockchains Based on Oracle
+R0115,EN,Secure Blockchain Interworking Using Extended Smart Contract
+R0116,I,MP‐HTLC: Enabling blockchain interoperability through a multiparty implementation of the hash time‐lock contract
+R0121,I,Cross-Chain Vulnerabilities in the Quantum Era: A Threat Analysis to Blockchain Interoperability
+R0122,I,Security and Privacy in Permissioned Blockchain Interoperability: A Systematic Review
+R0124,ED,A Secure Sidechain for Decentralized Trading in Internet of Things
+R0126,I,Harmonia: Securing Cross-Chain Applications Using Zero-Knowledge Proofs
+R0127,I,LightSwap: An Atomic Swap Does Not Require Timeouts At Both Blockchains
+R0129,I,Atomic commitment across blockchains
+R0130,I,Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges
+R0132,I,A secure cross-chain transaction model based on quantum multi-signature
+R0133,I,Cross-Chain Virtual Payment Channels
+R0143,I,Decentralized cross-blockchain asset transfers with transfer confirmation
+R0145,I,Research and Implementation of Cross-Chain Transaction Model Based on Improved Hash-Locking
+R0148,I,CrossChannel: Efficient and Scalable Cross-Chain Transactions Through Cross-and-Off-Blockchain Micropayment Channel
+R0149,EN,PoEC: A Cross-Blockchain Consensus Mechanism for Governing Blockchain by Blockchain
+R0153,I,CrossLink: A Decentralized Framework for Secure Cross-Chain Smart Contract Execution
+R0154,I,TrustCross: Enabling Confidential Interoperability across Blockchains Using Trusted Hardware
+R0157,I,PACDAM: Privacy-Preserving and Adaptive Cross-Chain Digital Asset Marketplace
+R0159,I,A cross-chain access control mechanism based on blockchain and the threshold Paillier cryptosystem
+R0160,I,MAD-HTLC: Because HTLC is Crazy-Cheap to Attack
+R0165,I,ARC: An Asynchronous Consensus and Relay Chain-based Cross-chain Solution to Consortium Blockchain
+R0168,I,Cumulus: A Secure BFT-based Sidechain for Off-chain Scaling
+R0169,ED,Trustable Blockchain Interoperability: Securing Asset Transfers on Permissioned Blockchains
+R0171,ED,IvyCross: A Trustworthy and Privacy-preserving Framework for Blockchain Interoperability
+R0172,I,A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking
+R0175,I,An Approach of Secure Two-Way-Pegged Multi-sidechain
+R0176,I,PXCrypto: A Regulated Privacy-Preserving Cross-Chain Transaction Scheme
+R0178,I,Atomic Swapping Bitcoins and Ethers
+R0182,I,Security Challenges in Building Blockchains Bridges and Countermeasures
+R0184,I,Atomic cross-chain exchanges of shared assets
+R0186,I,P2C2T: Preserving the Privacy of Cross-Chain Transfer
+R0187,I,A Privacy Protection Scheme for Cross-Chain Transactions Based on Group Signature and Relay Chain
+R0188,I,Distributed and Parallel Blockchain: Towards a Multi-Chain System With Enhanced Security
+R0189,I,An agnostic and secure interoperability protocol for seamless asset movement
+R0191,I,Extending Atomic Cross-Chain Swaps
+R0194,EN,A framework for efficient cross-chain token transfers in blockchain networks
+R0195,I,Double-spending attacks in cross-blockchain ecosystems
+R0197,EA,Atomic cross-chain settlement model for central banks digital currency
+R0202,EQ,"Horizon: A Gas-Efficient, Trustless Bridge for Cross-Chain Transactions"
+R0203,I,PTLC: Protect the Identity Privacy during Cross-Chain Asset Transaction More Effectively
+R0204,I,A secure dynamic cross-chain decentralized data consistency verification model
+R0208,I,Blockchain-Oriented Privacy Protection with Online and Offline Verification in Cross-Chain System
+R0210,I,HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts
+R0211,I,AgentChain: A Decentralized Cross-Chain Exchange System
+R0216,EQ,LayerZero: Trustless Omnichain Interoperability Protocol
+R0218,I,Bridging Sapling: Private Cross-Chain Transfers
+R0219,I,ChainPass: A Privacy-preserving Complete Cross-chain Authentication for Consortium Blockchains
+R0220,EA,Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap
+R0224,I,Benchmarking Blockchain Bridge Aggregators
+R0227,I,A Secure Cross-chain Mechanism Based on Relay Chain and Smart Contract Encryption Scheme
+R0228,I,HyperService: Interoperability and Programmability Across Heterogeneous Blockchains
+R0229,I,TrustBoost: Boosting Trust among Interoperable Blockchains
+R0230,EQ,"Topos: A Secure, Trustless, and Decentralized Interoperability Protocol"
+R0232,I,A Framework for Full Decentralization in Blockchain Interoperability
+R0234,EQ,Open problems in cross-chain protocols
+R0235,I,Privacy-Preserving Multi-Party Cross-Chain Transaction Protocols
+R0236,I,Relay network-based cross-chain data interaction protocol with integrity audit
+R0240,EI,R-SWAP: Relay based atomic cross-chain swap protocol
+R0241,I,SEPoW: Secure and Efficient Proof of Work Sidechains
+R0242,I,Cross-Chain Asset Transaction Method Based on Ring Signature for Identity Privacy Protection
+R0243,I,"Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies"
+R0245,EA,A Verifiable Privacy-Preserving Cross-Chain Protocol for Trusted Vehicle Edge Computing
+R0246,I,Blockchain Interoperability Using Hash Time Locks
+R0247,I,A Scalable Cross-Chain Access Control and Identity Authentication Scheme
+R0249,I,A Trusted Reputation Management Scheme for Cross-Chain Transactions
+R0250,I,Lightweight Privacy-Preserving Mechanisms for Cross-Chain Transactions
+R0252,I,Reinventing Multi-User Authentication Security From Cross-Chain Perspective
+R0253,I,Sidechains With Optimally Succinct Proof
+R0254,EN,A Fast Cross‐Chain Protocol Based on Trusted Notary Group for Metaverse
+R0255,EA,Cross-Chain-Based Trustworthy Node Identity Governance in Internet of Things
+R0257,EA,Fast and Atomic Cross-blockchain Asset Exchange for Metaverse Interoperability
+R0258,EA,CrossTrustchain: Cross-Chain Interoperability using Multivariate Trust Models
+R0261,I,A Trusted Privacy-Preserving Model for Cross-Chain Transactions Based on zk_SNARKs
+R0262,I,Balancing Privacy and Regulation of Cross-Chain Transaction Systems via SoK-Assisted Policy Enhancement
+R0265,I,XChainWatcher: Identifying Anomalies in Cross-Chain Bridges
+R0266,I,A privacy-preserving method for cross-chain interoperability using homomorphic encryption
+R0269,I,A Survey on Privacy Protection of Cross-Chain
+R0272,I,Distributed Runtime Verification of Metric Temporal Properties for Cross-Chain Protocols
+R0274,I,zkBridge: Trustless Cross-chain Bridges Made Practical
+R0276,I,Atomic cross chain swaps via relays and adapters
+R0277,EI,Enhancing Blockchain Interoperability Through Sidechain Integration and Valid-Time-Key Data Access Control
+R0281,EN,Improved Method of Blockchain Cross-Chain Consensus Algorithm Based on Weighted PBFT
+R0282,I,"Zephyr: A Cost-Effective, Zero-Knowledge Light Client for Enhanced Blockchain Interoperability"
+R0284,I,Secure cross-chain interactions: a relay chain framework with privacy and auditability solutions
+R0288,I,Efficient ECDSA-Based Adaptor Signature for Batched Atomic Swaps
+R0289,I,Cross-chain Supervision Mechanism of Distributed Notaries for Consortium Blockchain
+R0290,I,Optimized Cross-Chain Transactions With Aggregated Zero-Knowledge Proofs: Enhancing Efficiency and Security
+R0292,I,Achieving Distributed and Privacy-Preserving Cross-Chain Transactions in Account-Model Blockchain Systems
+R0293,I,Towards Efficient Consistency Auditing of Dynamic Data in Cross-Chain Interaction
+R0294,I,Cross-Channel: Scalable Off-Chain Channels Supporting Fair and Atomic Cross-Chain Operations
+R0295,EN,Cross-chain Workflow Model Based on Trusted Relay
+R0297,I,Research on Multidomain Authentication of IoT Based on Cross-Chain Technology
+R0298,I,A Sidechain-Based Decentralized Authentication Scheme via Optimized Two-Way Peg Protocol for Smart Community
+R0299,I,Cross-Chain Technology of Consortium Blockchain Based on Identity Authentication
+R0302,ED,HyperService: Interoperability and Programmability Across Heterogeneous Blockchains
+R0305,EI,Enhancing Blockchain Interoperability: A Secure and Time-Constrained Decentralized Exchange Protocol for Cross-Chain Transactions
+R0307,I,Track and Trace: Automatically Uncovering Cross-Chain Transactions in the Multi-Blockchain Ecosystems
+R0309,I,Blockchains and Cross-Blockchains: Privacy-Preserving Techniques
+R0310,ED,A Secure Consensus Protocol for Sidechains
+R0311,I,Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware
+R0313,EN,Enabling Auction-based Cross-Blockchain Protocol for Online Anonymous Payment
+R0315,I,$BitML^{x}$: Secure Cross-Chain Smart Contracts for Bitcoin-Style Cryptocurrencies
+R0317,EQ,Gravity: a blockchain-agnostic cross-chain communication and data oracles protocol
+R0318,I,CCC-TM: Cross-Chain consensus committee method using a trust model
+R0320,EN,Graph Neural Networks for Interoperability Solution in Decentralized Finance (DeFi) Ecosystem
+R0321,EN,Efficient cross-chain communication protocol across the blockchain ledgers
+R0322,I,Leveraging Zero-Knowledge Proofs for Blockchain Interoperability: Experiences with Ethereum and Hyperledger Fabric
+R0324,I,XGuard: Detecting Inconsistency Behaviors of Crosschain Bridges
+R0326,I,Security Challenges in Cross-Chain DeFi Applications
+R0327,I,privXCA: An efficient and privacy-preserving auditing architecture for cross-chain transfers
+R0328,I,Privacy-Preserving and Incentive-Driven Relay-Based Framework for Cross-Domain Blockchain Interoperability
+R0330,I,A Blockchain Cross-Chain Transaction Method Based on Decentralized Dynamic Reputation Value Assessment
+R0331,I,A distributed cross-chain mechanism based on notary schemes and group signatures
+R0334,I,Inter-blockchain protocols with the Isabelle Infrastructure framework
+R0336,I,Formalising a Gateway-based Blockchain Interoperability Solution with Event-B
+R0337,I,A multi-hop cross-blockchain transaction model based on improved hash-locking
+R0343,I,Atomic Swaps for Boneh–Lynn–Shacham (BLS) Based Blockchains
+R0345,I,LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures
+R0346,I,Cross-Chain Trusted Information Match Scheme with Privacy-Preserving and Auditability
+R0347,EQ,JugglingSwap: Scriptless Atomic Cross-Chain Swaps
+R0348,I,Anonymous Sidechains
+R0349,EQ,Atomic Crosschain Transactions White Paper
+R0350,I,Short Paper: An Empirical Analysis of Monero Cross-chain Traceability
+R0351,I,SoK: cross-chain bridging architectural design flaws and mitigations
+R0352,EN,Enhanced efficiency and security in cross-chain transmission of blockchain internet of ports through multi-feature-based joint learning
+R0354,EN,Cross-chain Architecture of Blockchain Integrating Notary Mechanism and Relay-chain Technology
+R0356,I,"XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets"
+R0358,EA,Enhancing trust and collaboration: A reputation-driven mechanism for cross-chain IoT data sharing
+R0359,ED,"SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems"
+R0360,I,Secure and Efficient Data Interoperability Protocols for Multi-Blockchains Systems
+R0369,I,Vger: a VRF based cross-chain mechanism for blockchains
+R0372,I,Securing hashed timelock cross-chain protocol with trusted middleman in blockchain networks
+R0373,I,A Dual Auditing Scheme of Cross-Chain Data Shared Among the Blockchain Network
+R0374,EA,A secure cross-domain interaction scheme for blockchain-based intelligent transportation systems
+R0376,I,Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures
+R0378,I,Atomic Smart Contract Interoperability With High Efficiency via Cross-Chain Integrated Execution
+R0380,I,Tracing Cross-Chain Transactions Between EVM-Based Blockchains: An Analysis of Ethereum-Polygon Bridges
+R0381,ED,Feasibility of Cross-Chain Payment with Success Guarantees
+R0382,EO,Scalable Blockchain Fraud Detection Using Spatial-Temporal Graph Neural Networks
+R0383,I,Multi-Signature and Game Based Blockchain Interoperability Oracle
+R0386,EA,Enabling Trustable Financing: A Verifiable Privacy-Preserving Cross-Chain Protocol
+R0387,I,SMPTC3: Secure Multi-Party Protocol Based Trusted Cross-Chain Contracts
+R0389,I,Looking for Anomalies in Cross-Chain Bridges
+R0390,I,BxTB: cross-chain exchanges of bitcoins for all Bitcoin wrapped tokens
+R0395,I,CrossDeFi: A Novel Cross-Chain Communication Protocol
+R0397,EN,Applying Social Network Analysis to Model and Handle a Cross-Blockchain Ecosystem
+R0399,I,CrossCert: A Privacy-Preserving Cross-Chain System for Educational Credential Verification Using Zero-Knowledge Proof
+R0400,EQ,Cross-Chain Interoperability - Validating Smart Contracts to Interoperate Over Diverse Blockchain Networks Using Interoperable Blockchain Framework Design (IBFD)
+R0401,I,CrossLedger: A Pioneer Cross-chain Asset Transfer Protocol
+R0402,I,Three-Stage Cross-Chain Protocol Based on Notary Group
+R0405,I,JointCloud Cross-chain Verification Model of Decentralized Identifiers
+R0407,I,Chain Bridge: A Secure Privacy-Preserving Framework for Anonymous Authentication and Cross-chain Routing
+R0408,I,Cross-Chain Identity Authentication Method Based on Relay Chain
+R0414,I,EC2P: Cost-Effective Cross-Chain Payments via Hubs Resisting the Abort Attack
+R0419,I,A cross-chain identity authentication scheme based on DID
+R0420,I,"Secure, Efficient, and Privacy-Protecting One-to-Many Cross-Chain Shared Data Consistency Audit"
+R0429,I,Cross-chain payment protocols with success guarantees
+R0435,ED,XChainWatcher: Monitoring and Identifying Attacks in Cross-Chain Bridges
+R0437,EI,Cross-Chain Traffic Anomaly Detection
+R0442,I,IoTAuth: A Decentralized Cross-Chain Identity Authentication Scheme for 6G Non-Terrestrial IoT Networks
+R0443,I,A Secure Cross-Account Audit Scheme for Cross-Chain Transactions
+R0445,I,Who constitute the VASPs in DeFi? A case study on money laundering via cross-chain bridge from the 2022 harmony hack
+R0448,EN,Distributed Atomic Swap on Cryptocurrencies
+R0450,I,Building a Cross-Chain Identity: A Self-Sovereign Identity-Based Framework
+R0454,I,Hash time locked contract based asset exchange solution for probabilistic public blockchains
+R0462,I,Atomic and privacy-preserving cyclic cross-chain protocol based on chameleon hash function
+R0466,I,Rapidash: Atomic Swaps Secure Under User-Miner Collusion
+R0467,I,Atomicity and Abstraction for Cross-Blockchain Interactions
+R0468,I,Proof of Repute Consensus (PoRC): A decentralized approach to blockchain interoperability
+R0469,I,Privacy-preserving cross-chain asset transfers using notary schemes and zero-knowledge proofs
+R0470,EQ,SoK: A Review of Cross-Chain Bridge Hacks in 2023
+R0471,ED,A Cross-Chain Payment Channel Network
+R0473,I,Intelligent blockchain based attack detection framework for cross-chain transaction
+R0475,I,BEAIV: Blockchain Empowered Accountable Integrity Verification Scheme for Cross-Chain Data
+R0476,I,Toward a Secure and Private Cross-Chain Protocol Based on Encrypted Communication
+R0478,I,Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks
+R0483,I,A Bidirectional Bridge for Cross-Chain Revocation of Verifiable Credentials in Segregated Blockchains
+R0488,I,V-ZOR: Enabling Verifiable Cross-Blockchain Communication via Quantum-Driven ZKP Oracle Relays
+R0492,I,Research on cross-chain method based on distributed Digital Identity
+R0494,I,Acheron: a market-based multi-relay architecture for adaptive and secure cross-chain communication
+R0496,I,Secure and trusted interoperability scheme of heterogeneous blockchains platform in IoT networks
+R0499,EI,Optimized Cross-Chain Mechanisms for Secure and Reliable Domain Information Synchronization in Blockchain-Driven Networks
+R0501,I,Atomic cross-chain swap based on private key exchange
+R0503,EA,A credible transfer method of cross-chain assets based on DID and VC
+R0505,EA,CCPP: Cross-Chain Privacy-Preserving for CCLS With Lattice-Based Ring Signature
+R0508,EN,Cross-chain data exchange and information security protection management in blockchain
+R0512,EA,Toward Secure and Auditable Data Sharing: A Cross-Chain CP-ABE Framework
+R0514,I,Novel Hash-time-lock-contract Based Cross-chain Token Swap Mechanism of Blockchain
+R0517,I,Research on Cross-Chain Consensus Models in Complex Trust Environments
+R0519,I,HT2REP : A fair cross-chain atomic exchange protocol under UC framework based on HTLCs and TRE
+R0520,EN,ChainKeeper: A cross‐chain scheme for governing the chain by chain
+R0528,I,A Blockchain Cross-Chain Transaction Protection Scheme Based on FHE
+R0529,I,Implementing Secure Bridges: Learnings from the Secure Asset Transfer Protocol
+R0531,EI,Cross-Chain Network Anomaly Detection
+R0532,I,Threshold/Multi Adaptor Signature and Their Applications in Blockchains
+R0535,I,Alba: The Dawn of Scalable Bridges for Blockchains
+R0537,I,UCC: Universal and Committee-based Cross-chain Framework
+R0540,I,Privacy-Preserving Decentralized Cryptocurrency Exchange without Price Manipulation
+R0542,I,A Cross-Chain Privacy Protection and Key Sharing Scheme Based on Relay Chain
+R0545,EA,A Study on Privacy Protection of Cross-Chain Transactions Based on Improved Notary Mechanisms
+R0547,EA,Adjustable Load Interactive Blockchain Interoperability Strategy Based on Reputation Value Promotion
+R0551,I,Cross-Chain Transaction Auditing with Truth Discovery
+R0563,I,A Flexible and Privacy-preserving Cross-chain Identity Authentication System based on Anonymous Credentials
+R0564,I,Interchain Timestamping for Mesh Security
+R0566,I,NFT Cross-Chain Transfer Method Under the Notary Group Scheme
+R0569,I,BridgeGuard: Checking External Interaction Vulnerabilities in Cross-Chain Bridge Router Contracts Based on Symbolic Dataflow Analysis
+R0570,I,Gateway-based Cross-Chain Transaction Protocols for Permissionless and Permissioned Blockchains
+R0576,I,A Security Analysis of Web3.0 Cross-Chain Bridges
+R0577,I,Calculation and selection scheme of node reputation values for notary mechanism in cross-chain
+R0579,I,Hash Time Lock with Dynamic Premium Based on Credit in Cross-Chain Transaction
+R0595,EN,Securing multi-chain consensus against diverse miner behavior attacks in blockchain networks
+R0596,I,Cross-chain asset trading scheme for notaries based on edge cloud storage
+R0599,I,A privacy-preserving cross-chain cryptocurrency transfer scheme based on commitment scheme and zero-knowledge proof
+R0602,EO,Creating Value in Metaverse-Driven Global Value Chains: Blockchain Integration and the Evolution of International Business
+R0604,I,Mercury: Practical Cross-Chain Exchange via Trusted Hardware
+R0605,I,Ensuring Cross-Chain Transmission Technique Utilizing TPM and Establishing Cross-Trusted Root Security via SM Algorithm
+R0610,I,Cross-chain Jamming Attack with Light Client Verification Clash in IBC Protocol
+R0611,EO,Legalization of criminal income using DeFi: typical schemes and risk indicators
+R0613,EN,Models for Generation of Proof Forest in zk-SNARK Based Sidechains
+R0614,I,Double-Layer Blockchain-Based Decentralized Integrity Verification for Multi-chain Cross-Chain Data
+R0618,EN,Research on Cross-Chain Data Integration Technology Based on Trust Computing
+R0619,I,Cross-Chain Arbitrage: The Next Frontier of MEV in Decentralized Finance
+R0625,I,"Cross-Chain Overview: Development, Mechanisms, Protocols, Security, and Challenges"
+R0627,I,PCT: A Relay-Based Privacy-Preserving Cross-Chain Transaction Scheme
+R0631,ED,PoDT: A Secure Multi-chains Consensus Scheme Against Diverse Miners Behaviors Attacks in Blockchain Networks
+R0632,I,Cross-chain Abnormal Transaction Detection via Graph-based Multi-model Fusion
+R0636,I,Multi-Party Cross-Chain Asset Transfers
+R0639,I,Warning! The Timeout T Cannot Protect You From Losing Coins: PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps
+R0641,EA,Social-Aware Cross-Chain Authentication Strategy in Mobile Edge Computing
+R0647,I,A Novel Cross-Chain Relay Method Based on Node Trust Evaluation
+R0649,EN,DART: A Low-Cost and Secure Cross-Chain Scheme for Popular Digital Assets
+R0650,I,SharedRXC: A Trustless Privacy-Preserving Asset Cross-Chain Scheme by Liability Equalization
+R0651,I,Detecting Fake Deposit Attacks on Cross-chain Bridges from a Network Perspective
+R0661,I,Trust-minimized optimistic cross-rollup arbitrary message bridge
+R0666,EI,Cross-Chain Abnormal Account Detection
+R0668,I,Cross-chain Interaction Model In a Fully Verified Way
+R0670,I,SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs
+R0677,I,ConneX: Automatically Resolving Transaction Opacity of Cross-Chain Bridges for Security Analysis
+R0678,I,A Blockchain Model in Tamarin and Formal Analysis of Hash Time Lock Contract
+R0682,I,BridgeShield: Enhancing Security for Cross-chain Bridge Applications via Heterogeneous Graph Mining
+R0684,I,An Understandable Cross-Chain Authentication Mechanism for JointCloud Computing
+R0686,EO,Conditional Privacy-Preserving Transaction for the Unspent Transaction Output-Based Multi-Chain Blockchain System
+R0696,EO,Enabling Privacy-Preserving Off-chain Payment via Hybrid Multi-hop Mechanism
+R0697,I,The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences
+R0703,I,A Technique for Ensured Cross Chain IBC Transactions Using TPM
+R0713,EQ,Stateless and Secure Delivery versus Payment across Blockchains
+R0724,EQ,"Accumulate: An identity-based blockchain protocol with cross-chain support, human-readable addresses, and key management capabilities"
+R0726,I,Cross Chain Bribery Contracts: Majority vs Mighty Minority
+R0733,I,Cross-Chain Asset Transaction Method Based on Decentralized Digital Identity
+R0735,I,Wormhole Cross-Chain Bridge Transactions Flow: An Exploratory Study
+R0745,I,Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges
+R0752,I,Enabling Fast Settlement in Atomic Cross-Chain Swaps
+R0757,I,Reaching consensus for membership dynamic in secret sharing and its application to cross-chain
+R0761,EA,A Cross-Chain-Based Access Control Framework for Cloud Environment
+R0769,I,Two-Phase Election Algorithm for Cross-Chain Notaries
+R0771,EA,Index Multilinear Tree-based Cross Chain for Decentralized Identity Governance
+R0779,I,Bridging Economic Model and Blockchain: ZKP Empowered Privacy Preserving Payment Channel with Intermediary Pricing
+R0785,I,Cross-chain Transaction Tracking Protocol based on Multi-dimensional Digital Watermarking Fingerprints
+R0786,I,Towards a Dynamic Reputation Management Scheme for Cross-Chain Transactions
+R0791,I,Quantum-Safe Hash Time-Locked Cross-Chain Transaction Mechanism
+R0794,I,A multi-notary cross-chain system with supervision and identity tracking
+R0796,I,A Cross-Chain Mechanism Based on Hierarchically Managed Notary Group
+R0798,I,DeCoTa: a lightweight decentralized cross-chain transfer scheme based on hash-locking
+R0799,I,XSema: A Novel Framework for Semantic Extraction of Cross-chain Transactions
+R0800,I,LTRAS: A Linkable Threshold Ring Adaptor Signature Scheme for Efficient and Private Cross-Chain Transactions
+R0806,I,A Cross-Chain Identity Authentication Scheme for WSNs Based on Relay Chain
+R0820,I,Anti-quantum cross-chain identity authentication approach using dynamic group signature
+R0827,EQ,Federated Learning Enhanced Blockchain Interoperability Protocol for Intelligent Cross-Chain Transaction Validation
+R0840,I,Notary Evaluation Algorithm Adaptable to Node State Changes for Cross-Chain Notaries
+R0845,I,FastDCV: An efficient cross-chain data consistency verification scheme supporting batch processing
+R0848,I,Adapting the Secure Asset Transfer Protocol for Secure Cross-Network Asset Exchange
+R0851,EI,Towards a Secure Cross-Blockchain Smart Contract Architecture
+R0853,EQ,"Eden: An Provably Secure, Ultra-Fast, and Fully Decentralized Blockchain Interoperability Protocol"
+R0858,I,CATs: Secure Blockchain Interoperability with Cross-chain Atomic Transactions
+R0862,I,Visualization of Cross-Chain Transactions for Secure Blockchain Interoperability (Position Paper)
+R0864,EA,A Unified Biometric Authentication Framework for Web2-Web3 Interoperability Using Zero-Knowledge Proofs and Cross-Chain Decentralized Identifiers
+R0866,I,ZKCross: An Efficient and Reliable Cross-Chain Authentication Scheme Based on Lightweight Attribute-Based Zero-Knowledge Proof
+R0867,I,He-HTLC: Revisiting Incentives in HTLC
+R0880,I,Verilay: A Verifiable Proof of Stake Chain Relay
+R0888,EQ,Post-Quantum Secure Cross-Chain Interoperability Protocols for Next-Generation Blockchain Systems
+R0898,I,Test Case Generation for Cross-Blockchain Smart Contract
+R0901,EQ,A blockchain cross-chain transaction scheme based on atomic swap
+R0903,EA,Threat‐Aware Mutual Authentication in Web3: A Privacy‐Preserving Framework With ZKP ‐ DID and Real‐Time GNN Integration
+R0904,EQ,An approach to formal verification of atomic swap protocols
+R0907,EQ,"ZKP-based Private Blockchain, Smart Contract Vulnerability Detection & Cross-chain Interoperability"
+R0908,EQ,A Cross-Chain Atomic Swaps: Enabling Trustless Interactions between Different Blockchains
+R0909,I,Anonymity-Enhancing Multi-Hop Locks for Monero-Enabled Payment Channel Networks
+R0913,EQ,Security Threats and Their Impact on Blockchain Interoperability: Identification and Countermeasures
+R0916,I,A Privacy-Preserving and Highly Fault-Tolerant Cross-Chain Atomic Swap Scheme
+R0917,I,zk-HTLC: A formally verified defense against linkability attacks in trust-minimized cross-chain networks
+R0922,EQ,An Adaptive Risk-Aware Trust-Minimized Cross-Chain Bridge Using Dynamic Validator Selection and Zero-Knowledge Verification for Secure and Scalable Blockchain Interoperability
+R0925,EQ,Balancing Privacy and Compliance in DeFi: A Zero-Knowledge-Based Auditable Cross-Chain Framework
+R0927,EQ,Enabling permissioned-to-permissionless blockchain interoperability with enhanced privacy and incentive mechanisms
+R0933,I,Auditable Ledger Snapshot for Non-Repudiable Cross-Blockchain Communication
+R0934,EQ,Enhancing Authentication in Blockchain Bridges
+R0935,I,"Security difficulties and barriers in building decentralized blockchain bridges, solution methods"
+R0937,EQ,ENHANCING BLOCKCHAIN INTEROPERABILITY WITH DECENTRALIZED CONSENSUS AND MULTI-SIGNATURE PROTOCOLS FOR SECURE TRANSACTIONS
+R0942,I,The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi
+R0944,EQ,QLink: Quantum-Safe Bridge Architecture for Blockchain Interoperability
+R0945,I,CrossGuard: a multi-modal few-shot learning framework for detecting cross-chain smart contract vulnerabilities
+R0947,I,Formal Analysis of IBC Protocol
+R0949,I,A Generic Framework for Cross-Chain Atomic Swaps of Digital Tokens
+R0959,I,Enhancing Security of Cross-Chain Bridge Smart Contracts Using Multi-Model Deep Learning Techniques for Vulnerability Detection
+R0960,EQ,Designing a decentralized quantum-resistant notary scheme for blockchain interoperability with a dynamic trust model
+R0968,EQ,Atomic Loans: Cryptocurrency Debt Instruments
+R0974,I,Exploiting Liquidity Exhaustion Attacks in Intent-Based Cross-Chain Bridges
+R0976,EQ,Interchain-OS: A Modular Framework for Secure Cross-Chain Interoperability in Public Blockchain Networks
+R0979,EA,Efficient Cross-Chain Framework for Privacy-Preserving and Auditable Data Retrieval
+R0980,I,Race-Resistant Atomic Swaps Across Heterogeneous Blockchains
+R0982,I,DCS-HTLC: An Environment-Aware Adaptive Protocol for Cross-Chain Atomic Swaps
+R0984,I,An Inter-blockchain Escrow Approach for Fast Bitcoin Payment
+R0985,EQ,"Hedge Funds on a Swamp: Analyzing Patterns, Vulnerabilities, and Defense Measures in Blockchain Bridges"
+R0987,EQ,Blockchain for Academic Integrity: Developing the Blockchain Academic Credential Interoperability Protocol (BACIP)
+R0990,EQ,Validation of the Results of Cross-chain Smart Contract Based on Confirmation Method
+R0993,EQ,AAPS: Secure Cross-chain Scheme Based on Anti-attack Protocol Slot
+R0997,I,BeOAC: Blockchain-enabled offline audit scheme in cross-chain interaction
+R0998,I,GoAT-X: A Graph of Auditing Thoughts for Securing Token Transactions in Cross-Chain Contracts
+R1000,I,Fuzzing Cross-Chain Vulnerabilities with BridgeFuzz
+R1003,EN,Obfuscation as an Effective Signal for Prioritizing Cross-Chain Smart Contract Audits: Large-Scale Measurement and Risk Profiling
+R1006,EQ,"A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret"
+R1007,I,Layer 0 and Layer 1 Integrated Smart Contract Kill Switch for Cross-Chain Security in Decentralized Systems
+R1008,I,Zk-InterChain: privacy-preserving protocol for cross-chain interactions between consortium and public blockchains
+R1009,I,VeriMesh: a trust-adaptive multi-path relay framework for secure and resilient cross-chain interoperability
+R1011,EN,Formalizing a Routing Layer for Cross-Blockchain Communication
+R1013,EI,Generic Privacy-Aware Cross-Chain Framework
+R1016,I,"LockMeld: A Privacy-Preserving Cross-Chain Protocol for Confidential, Account-Based Blockchains"
+R1017,I,Security Transfer Analysis of Inter-Blockchain Consensus Algorithm Including Slashing in Delay-Tolerant Payment Networks
+R1020,EQ,Towards Secure and Trustworthy DAOs for Cross-Chain Governance
+R1023,I,A Post-Quantum Cross-Domain Authentication Scheme Based on Multi-Chain Architecture
+R1027,I,PPSCCC: Privacy-Preserving Scalable Cross-Chain Communication Among Multiple Blockchains Based on Parent-Child Blockchain
+R1028,EI,"Design of an efficient model for enhanced blockchain forensics through anomaly detection, graph neural networks, and cross-blockchain analysis"
+R1029,EI,Balance of Privacy and Regulation for Cross-Chain Transactions
+R1033,EN,Protection of Communication Between Chains by Intelligent Translation Protocols: Applying the AI for Blockchain Interoperability
+R1034,EQ,Comparative Security Analysis of Cross-Chain Protocols: An Empirical and Metrics-Based Approach
+R1038,I,Atomic Swaps with Relaxed Assumptions
+R1040,EA,A Systematic Literature Review of Blockchain Interoperability Analysis for Authorized Economic Operator (AEO) System
+R1041,I,"VeCroToken: An Efficient, Verifiable, and Privacy-Preserving Cross-Chain Model for Consortium Blockchains Based on zk-SNARKs"
+R1042,EQ,Cross-Chain Interoperability: Formal Verification and Recursive Zero-Knowledge Architectures for Heterogeneous Distributed Systems
+R1043,I,Mining in Logarithmic Space
+R1045,I,VeriBridge: Real-Time Cross-Chain Bridge Attack Detection through Static-Informed Graph Anomaly Learning
+R1047,I,A Secure and Efficient Cross-Chain Model Based on Credentials
+R1051,EI,Lightweight Cross-Chain Privacy-Preserving Protocol
+R1054,EA,Privacy-Preserving Cross-Chain Asset Tracking: A Threshold PSI Protocol with Real-World Exploit Validation
+R1055,EQ,CCN: Decentralized Cross-Chain Channel Networks Supporting Secure and Privacy-Preserving Multi-Hop Interactions
+R1060,EQ,0xPass: A Secure Protocol for Universal Cross-Chain Accounts
+R1061,EQ,Unicity: Predicates and Atomic Swaps
+R1062,I,CIFGViewer: Detecting Cross-chain Bridge Attacks via Cross-chain Information Flow Graph
+R1064,EQ,Cross-Chain Ethereum Architecture for Secure and Dynamic Access Management
+R1065,EN,Relayer Aggregation Using Chainless Multi-Layer Consensus
+R1067,I,Contagion in Decentralized Infrastructure: How Cross-Chain Bridge Exploits Propagate Failure Across the Blockchain Ecosystem
+R1069,EA,A trust-aware replay-resistant dual-chain blockchain protocol with zero-knowledge authentication for secure and scalable IoMT systems
+R1070,EQ,Security and Scalability Evaluation of Risk-Adaptive Trust-Weighted Validator Selection for Cross-Chain Bridges
+R1071,EN,Interledger Demo: IoT Integration
+R1072,EA,A scalable cross-chain blockchain framework for global certificate authentication and validation
+R1077,I,Probabilistic Atomic Swaps for Bitcoin and Friends
+R1080,I,CLCBA: A Secure and Efficient Identity Authentication Scheme for Cross-Chain Interoperability
+R1084,EA,"Blockchain Interoperability in Supply Chains: A Systematic Literature Review of Benefits, Challenges, and Key Success Factors"
+R1087,I,Auditable anonymous authentication scheme for cross-chain data transmission
+R1089,I,"A Survey of Blockchain Privacy Protection in Intra-Chain and Cross-Chain Scenarios: State-of-the-Art, Challenges, and Future Work"
+R1091,I,Evolutionary soft computing for interpretable exploit generation in cross-chain bridges
+R1092,EN,A cross-chain model with underlying security and scalability based on quantum algorithm
+R1094,I,CrossGuardian: A security domain isolation model for cross-chain gateway
+R1095,ED,MECURY: Practical Cross-Chain Exchange via Trusted Hardware
+R1098,EA,Enhancing IoT Sidechain Security and Efficiency: A Restaking and Contract Approach
+R1101,EO,A Survey on Secure and Scalable Cross-chain Provenance Techniques For Digital Forensics
+R1102,EQ,Blockchain Attacks and Defenses: A Layered and Cross-Domain Survey
+R1107,EQ,AML IN THE VOID: CROSS-CHAIN BRIDGES AS A NATIONAL SECURITY THREAT
+R1115,I,Enhanced Notary Cross-Chain Mechanism with Identity Privacy and Traceability: Achieving notary privacy and distributed accountability in cross-chain systems
+R1117,I,Dynamic Notary Group Election Algorithm Based on Reputation Value
+R1118,EI,Determining the Number of Confirmation Blocks in a Two-level Blockchain with Proof-of-proof Consensus Protocol for Different Consensus Types in Mainchain/Sidechain to Prevent Double-spending Attack. II. PoW in Mainchain/PoS in Sidechain
+R1120,I,Cross-Chain Interoperability Techniques and the Role of Zero-Knowledge Proofs
+R1122,I,Anomaly Detection in Cross-Chain Bridges: A Data Analytics Study
+R1123,I,$2B Lessons: Brigade as a Defense Against Real-World DeFi Bridge Exploits
+R1126,I,Optimizing Notary Election for Cross-Chain Blockchain Transactions Using SVM
+R1127,I,Lotus: A Hybrid Cross-Chain Framework for Privacy-Preserving Digital Identity
+R1128,EQ,Cross-Chain Asset Transfer Using Secure State Snapshots and Optimistic Verification
+R1129,I,sigBridge: A Cross-chain Bridge for Permissioned Blockchains and its application to decentralized access control
+R1130,EI,Cross-Chain Decentralized KYC Infrastructure for Secure Identity Management in IDOs
+R1132,I,DETERMINING THE NUMBER OF CONFIRMATION BLOCKS IN A TWO-LEVEL BLOCKCHAIN WITH PROOF-OF-PROOF CONSENSUS PROTOCOL FOR DIFFERENT CONSENSUS TYPES IN MAINCHAIN/SIDECHAIN TO PREVENT DOUBLE-SPEND ATTACK II. PoW IN MAINCHAIN/PoS IN SIDECHAIN
+R1133,I,zkHARPS: A Decentralized Method for Cross-Chain Identity Aggregation and Privacy Proof
+R1137,I,Seamlessly Transferring Assets through Layer-0 Bridges: An Empirical Analysis of Stargate Bridge's Architecture and Dynamics
+R1139,I,A Privacy-Preserving Cross-Chain Access Control Scheme Based on Threshold Fully Homomorphic Encryption
+R1141,I,Mind the Gap: Liquidity Poisoning Attacks on Multihop Cross-Chain Arbitrage
+R1145,I,Enhancing the security of cross-chain by reputation-incentive mechanism with TrustRank algorithm
+R1148,EN,Cross-Chain
+R1149,I,CR2P:Collaborative regulatory privacy protection scheme in cross-chain-based anonymous payments
+R1150,I,A Dynamic Trust Evaluation and Risk Control Mechanism for Heterogeneous Cross-Chain Nodes
+R1154,EN,Cross-chain Transaction Validation using Lock-and-Key Method for Multi-System Blockchain
+R1155,I,Cross-Chain Asset Trading Scheme Without Trusted Third-Party
+R1158,I,Trustworthy Federated Identity Management (TFIM) for secure DApp interoperability in cross-chain environment
+R1162,I,Cross-chain identity privacy protection scheme based on oblivious transfer protocol and key agreement
+R1166,EQ,InterNull: Achieving Cross-Chain Transaction Privacy Through ECDSA One-Time Signatures
+R1170,I,ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment
+R1172,I,Analysis and Design of an ROS Attack-Resistant Adaptor Signature Scheme for Multiparty Cyclic Cross-Chain
+R1175,I,Secure cross-chain value and data transfer: a novel approach based on hash time lock and relay chain technology
+R1176,EQ,"A Systematic Taxonomy and Risk-Scoring Framework for Cross-Chain Bridge Security: Design, Retrospective Validation, and Comparative Analysis"
+R1181,EQ,"HFIPay: Privacy-Preserving, Cross-Chain Cryptocurrency Payments to Human-Friendly Identifiers"
+R1193,EQ,Cross-Chain Bridges and Mixers: Exploitation by Sanctioned Nation-State Actors for Cryptocurrency Laundering
+R1195,I,BADS: Real-Time Anomaly Detection and Reporting for Cross-Chain Bridges Using Large Language Models
+R1196,EN,Cross-Chain Governance
+R1200,I,VeilAudit: Breaking the Deadlock Between Privacy and Accountability Across Blockchains
+R1201,I,NCCP: A Notary Group-Based Cross-Chain Channel Protocol for Secure and Scalable Interoperable Payments
+R1203,EQ,Shadow Fork Swapback: Deferred Finality Exploits in Interoperable Blockchain Systems
+R1209,EQ,Beyond Oracles: Why Logic Validation Is the New Trust Layer in Cross-Chain Finance
+R1219,I,Pistis: Enabling Secure Interoperability Across Unobservable Permissioned Blockchains
+R1223,EO,UniDetect: LLM-Driven Universal Fraud Detection across Heterogeneous Blockchains
+R1234,I,EquiLink Bridge: A Semi-Custodial Approach to Cross-Chain Transactions via TEE
+R1235,I,Rebel: A Cross-Chain Data Audit Scheme Based on Reputation Model to Defend Against Malicious Nodes
+R1236,EQ,Analysis and Research on Blockchain Security Technology: A Case Study of the Poly Network Security Incident
+R1241,I,Trustless Bridges via Random Sampling Light Clients
+R1245,I,MSTLC: A Cross-Chain Protocol Based on Multi-Signature Timelock
+R1249,I,TruAtom: Facilitating Atomic Cross-Chain Invocations for DApps via Trusted Smart Communities and Lock-Supported Atomic-Oracle Chain
+R1251,I,CP-ABZP: A CP-ABE Cross-Chain Privacy Protection Scheme Combined with Zero-Knowledge Proof
+R1259,I,A Flexible Cross-Chain Payment Channel Network
+R1261,EN,Interoperability Effects: Extending DeFi Lending Risk Models to Multi-Chain Environments
+R1262,I,A Cross-Chain Transmission Protocol Based Oracle
+R1272,I,Bitcoin Cross-Chain Bridge: A Taxonomy and Its Promise in Artificial Intelligence of Things
+R1286,I,SLAC-IB: a secure and scalable service-level access control framework for interoperable blockchains
+R1288,I,"Cross-Chain Options: A Bridgeless, Universal, and Efficient Approach"
+R1294,I,Glimpse: On-Demand PoW Light Client with Constant-Size Storage for DeFi
+R1298,I,"Stalled Cross-chain Transactions: Scale, Impacts, and Causes"
+R1299,I,Cross-Chain-Based Distributed Digital Identity: A Survey
+R1305,EN,Cross-chain General Message Passing Protocol via Eternal Bridge
+R1311,I,Definition and Analysis of Defects in Cross-Chain Bridge Decentralized Applications
+R1316,EA,FAIR - Federated Agreement for Independent Resolution: A Cross-Chain Decision-Making Protocol
+R1323,I,Automatic Cross-chain Protocol Pausing with Real-time Conformance Checking
+R1327,I,Review on Cross-Chain Bridges for Data Verification
+R1329,I,Proofs of Proof-of-Stake with Sublinear Complexity
+R1331,I,Ontology-Driven Authorization Semantics for Cross-Chain Bridges
+R1335,I,DECS: A Decentralized and Efficient Cross-Chain Scheme in IoT System
+R1336,EN,Universal Wallet for Trustless Cross-Chain Interoperability via Merkle Proofs
+R1337,I,Cross-chain Anomalous Transaction Detection Based on BERT Model
+R1338,I,Decentralized threshold signature scheme for cross-chain notary identity authentication
+R1343,I,Chuchu: A Hashlock Group Protocol for Cross-Chain Swaps
+R1345,EN,A Blockchain of Blockchains Structure Based on Asset Trading Scheme
+R1346,I,PoVIChain: Lightweight and verifiable cross-chain interoperability for heterogeneous edge networks
+R1352,I,Towards Policy-Enabled Multi-Hop Routing for Cross-Chain Message Delivery
+R1353,I,Cross-Chain Laundering Tracer: Activity Tracking Methodology for Cryptocurrency Laundering
+R1360,EN,Integrating Post Quantum Cryptography Into Bitcoin Sidechains: A Simulation Based Study
+R1363,I,A Cross-Chain Identity Anonymity Protection Scheme for Regulatory Scenarios
+R1364,I,Scriptless cross-chain deferred asset transfer for AIoT
+R1371,I,Cross-Chain Identity Authentication for BIoMT with Multi-chain Fusion Mode
+R1372,EN,CAVer: Compacting Accumulation to Reduce Cross-chain Verification Overhead
+R1380,I,NebulaX: Scalable Cross-Chain Interoperability via zk-SNARK Aggregation and Dynamic Incentives
+R1389,I,An Efficient and Scalable Cross-Chain Identity Authentication Method Based on Improved DID
+R1404,I,SmartMemory: Detecting On-chain-off-chain Communication Inconsistency for Smart Contract via Memory-based Agent
+R1405,I,A Trustworthy Data Verification Technique for Cross-Chain Data Sharing Based on Merkle Trees
+R1408,I,Decentralized and Lightweight Cross-Chain Transaction Scheme Based on Proxy Re-signature
+R1411,I,Recipient-Agnostic Hash Locks for Cross-Chain Auctions with Bitcoin Bidding
+R1420,I,Phantom Events: Demystifying the Issues of Log Forgery in Blockchain
+R1426,I,Cross-Chain Identity Authentication Mechanism Based on VRF Dynamic Selection and BLS Aggregate Signatures
+R1428,I,"ShiftHub: Enabling Atomic, Unlinkable, and Practical m ~1 Cross-Chain Transfer"
+R1429,I,Cross-Chain Identity Authentication Protocol based on Group Signature and Zero-Knowledge Proof
+R1436,I,zkPACT: A zero-knowledge private cross-chain token transfer framework utilizing decentralized oracle networks
+R1443,I,Signals and Spoils: Speculative Oracle Extractable Value in the Era of Cross-Chain Interoperability
+R1473,I,A Proof of Success and Reward Distribution Protocol for Multi-bridge Architecture in Cross-chain Communication
+R1474,EQ,Union: A Trust-minimized Bridge for Rootstock
+R1478,I,AHash Time Lock Based on Double Encryption Algorithm
+R1488,I,IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges
+R1490,I,A Cross-Chain Scheme Combining Notary with Linkable Ring Signature and Hash Time Lock Contract
+R1497,I,F2C2T: A Freeze-Free Cross-chain Transfer Consistency Guarantee Mechanism for Data Asset with Associations
+R1500,I,A Cross-Chain Key Agreement and Regulatory Governance Framework Based on Peninsula Group Permutation Rational Functions
+R1508,I,EXTENDING THE SPV CONTRACT CONCEPT WITH PRIVACY GADGETS
+R1543,I,The Double Spending Dilemma: From Traditional Cash Systems to Interoperable Blockchain Systems
+R1547,EI,Under the Space Threat: Quantitative Analysis of Cosmos Blockchain
+R1565,EQ,Trustless Settlement for the Autonomous Economy: Sealed-Bid RFQ with HTLC Atomic Execution Across Heterogeneous Blockchains
+R1631,EQ,"Crystal Validator vs. LayerZero, Axelar, and Wormhole: Why Interoperability Messaging Is Not Compliance, Security, or Enforcement"
+R1637,EQ,A multi-chain synchronization protocol that leverage zero knowledge proof to minimize communication trust base
+R1675,I,$\mathsf{CRATE}$: Cross-Rollup Atomic Transaction Execution
+R1682,EQ,Ping-Pong Swaps
+R1704,I,X-Transfer: Enabling and Optimizing Cross-PCN Transactions
+R1715,I,Blink: An Optimal Proof of Proof-of-Work
+R1720,I,A Multiple Indicator Credit Ranking Scheme Based on Notary Mechanism
+R1728,I,A Hash Time Lock Mechanism Based on Threshold Algorithm
+R1729,EQ,TeleBTC: Trustless Wrapped Bitcoin
+R1730,EI,"OptiBridge: A Trustless, Cost-Efficient Bridge Between the Lightning Network and Ethereum"
+R1737,I,Liveness of Polygon Migration Contract using PAT Model Checker
+R1800,I,SaFeBridge: Consensus-Agnostic Asset Transfer with Slow-Approval Fast-Exit Principles
+R1822,I,XChainDataGen: A Cross-Chain Dataset Generation Framework
+R1823,ED,Trustable Blockchain Interoperability: Securing Asset Transfers Trustable Blockchain Interoperability: Securing Asset Transfers on Permissioned Blockchains on Permissioned Blockchains
+R1826,ED,X CLAIM : A Framework for Blockchain Interoperability
+R1827,I,On the optionality and fairness of Atomic Swaps
+R1828,I,InterAcct: Access Control for Permissioned Blockchain Interoperation
+R1829,ED,"Pay To Win: Cheap, Crowdfundable, Cross-chain Algorithmic Incentive Manipulation Attacks on PoW Cryptocurrencies"
+R1830,ED,Cumulus: A BFT-based Sidechain Protocol for Off-chain Scaling
+R1831,I,GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps
+R1835,I,Recursive Aggregation for Scalable Cross-Chain Block Header Verification
+R1838,I,PPBRidge: A Zero-Knowledge Privacy-Preserving Cross-Chain Bridge for EVM Networks
+R1839,EI,UniCross: A Universal Cross-Chain Payment Protocol with On-demand Privacy and High Scalability
+R1844,I,Bhra-VITARIT: Weighted Atomic Swaps for Threshold Services on Scriptless Blockchains
+R1846,I,Detecting Sybil Attacks in Cross-Chain Transactions: A Multi-Stage Framework
+R1851,I,4-Swap: Achieving Grief-Free and Bribery-Safe Atomic Swaps Using Four Transactions
+R1854,I,Formal Verification of a Fail-Safe Cross-Chain Bridge
+R1858,I,BrokerAS: Towards Fault-tolerant Atomic Cross-chain Swaps
+R1859,I,"An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities"
+R1863,EI,Fairness in the Wild: Secure Atomic Swap with External Incentives
+R1865,I,Efficient Privacy-Preserving Integrity Auditing Scheme for Cross-Chain Data in Block-Chain Networks
+R1867,EA,An Arbitrary Oblivious Selection-Enabled Privacy-Preserving Cross-Chain Regulatory Market
+R1868,I,Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and Challenges
+R1869,I,FluxLayer: A Secure Three-Layer Architecture for Unified Cross-Chain Liquidity
+R1873,EI,Cross-chain bridges via backwards-compatible SNARKs
+R1878,EI,RSK: A Bitcoin sidechain with stateful smart-contracts
+R1880,EI,A Cryptographic Layer for the Interoperability of CBDC and Cryptocurrency Ledgers
+R1886,ED,"Glimpse: On-Demand, Cross-Chain Communication for Efficient DeFi Applications on Bitcoin-based Blockchains"
+R1887,I,A Novel zk-SNARKs Method for Cross-chain Transactions in Multi-chain System
+R1888,ED,Trustable Blockchain Interoperability: Securing Asset Transfers involving Permissioned Blockchains
+R1892,I,Pace: Privacy-Preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges
+R1896,EQ,A fair and secure blockchain cross chain mechanism based on artificial intelligence
+R1901,I,XPCH: A Cross-Chain Payment Protocol via Connecting the Payment Channel Hubs
+R1902,I,A Framework for Monitoring and Auditing the Activity of Cross-Chain Mechanisms
+R1917,EI,A Prototype-Based Study of Zero-Knowledge Proof Verification for Privacy-Preserving Blockchain Interoperability
+R1928,ED,"Pay-To-Win: Cheap, Crowdfundable, Cross-chain Incentive Manipulation Attacks on Cryptocurrencies"
+R1933,EQ,Bitcoin-Monero Cross-chain Atomic Swap
+R1934,I,General Purpose Atomic Crosschain Transactions
+R1937,EI,Cross-Chain Privacy-Preserving Auditable Protocol
+R1938,I,Empirical On-Chain Analysis of Delays in Packet Forward Middleware-Based Multi-Hop CrossChain Transfers
+R1941,I,A Security Framework for General Blockchain Layer 2 Protocols
+R1943,I,Scriptless Atomic Swap With Batch Processing
+R1948,I,XIR: A Framework for Interoperability across Cross-Chain Protocols Based on a Verifiable Intermediate Representation
+R1949,I,Bridging the Opacity: Evidence-Backed Cross-Chain Transaction Correspondence Reconstruction Across Heterogeneous Blockchains
+R1950,I,When AI Agents Meet MEV: Cross-Chain Arbitrage in the Agentic Economy
+R1951,I,Heterogeneous Cross-Chain Transaction Tracing for Solana Bridges via Candidate-Set Selective Decision
+R1953,EQ,SoK: Cross-Chain Transaction Identification and Matching
+R1955,EQ,Rollback-Free Cross-Chain Atomicity Through Forward-Only Correction
+R1963,I,Catching the Fly: Practical Challenges in Making Blockchain FlyClient Real
+R1964,I,COBALT-TLA: A Neuro-Symbolic Verification Loop for Cross-Chain Bridge Vulnerability Discovery
+R1965,EQ,"SoK: The Evolution of Maximal Extractable Value, From Miners to Cross-Chain"
+R1966,I,Reuse of Public Keys Across UTXO and Account-Based Cryptocurrencies
+R1969,EO,ShadowBlock: Efficient Dynamic Anonymous Blocklisting and Its Cross-chain Application
+R1971,I,Decentralized Exchange that Mitigate a Bribery Attack
+R1973,EO,Clustering Deposit and Withdrawal Activity in Tornado Cash: A Cross-Chain Analysis
+R1974,EQ,BATTLE for Bitcoin: Capital-Efficient Optimistic Bridges with Large Committees
+R1978,EQ,Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage
+R1982,EQ,"Enabling High-Frequency Trading with Near-Instant, Trustless Cross-Chain Transactions via Pre-Signing Adaptor Signatures"
+R1985,EQ,Historical and Multichain Storage Proofs
+R1990,I,Cross-Blockchain Communication Using Oracles With an Off-Chain Aggregation Mechanism Based on zk-SNARKs
+R1991,EQ,"Your Trust, Your Terms: A General Paradigm for Near-Instant Cross-Chain Transfer"
+R1992,EQ,Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs
+R1993,EN,Arguably Adequate Aqueduct Algorithm: Crossing A Bridge-Less Block-Chain Chasm
+R1996,I,Towards faster settlement in HTLC-based Cross-Chain Atomic Swaps
+R1997,I,Cross-chain Swaps with Preferences
+R1998,EQ,Trustless Cross-chain Communication for Zendoo Sidechains
+R2001,I,Cross-Chain State Machine Replication
+R2002,I,Transferable Cross-Chain Options
+R2005,I,A Voting-Based Blockchain Interoperability Oracle
+R2007,I,Wrapping trust for interoperability. A study of wrapped tokens
+R2010,I,A Game-Theoretic Analysis of Cross-Ledger Swaps with Packetized Payments
+R2011,EQ,Atomic Swaps between Bitcoin and Monero
+R2013,I,A Game-Theoretic Analysis of Cross-Chain Atomic Swaps with HTLCs
+R2017,EQ,SuSy: a blockchain-agnostic cross-chain asset transfer gateway protocol based on Gravity
+R2022,I,Layer 2 Atomic Cross-Blockchain Function Calls
+R2024,ED,Decentralized Cross-Blockchain Asset Transfers
+R2026,I,Testimonium: A Cost-Efficient Blockchain Relay
+R2027,I,Zendoo: a zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains
+R2030,I,Application Level Authentication for Ethereum Private Blockchain Atomic Crosschain Transactions
+R2033,EN,The merits of using Ethereum MainNet as a Coordination Blockchain for Ethereum Private Sidechains
+R2037,I,DeXTT: Deterministic Cross-Blockchain Token Transfers
+R2038,EQ,Sidechains and interoperability

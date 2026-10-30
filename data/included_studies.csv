@@ -1,0 +1,430 @@
+id,source,title,year,venue,doi,arxiv,cites,type,stage,props,classes,tech,eval,peer_reviewed
+R0009,database,Enabling Enterprise Blockchain Interoperability with Trusted Data Transfer (Industry Track),2019,Middleware Industry,10.1145/3366626.3368129,1911.01064,110,D,S1,1,1,LC,E,yes
+R0013,database,Proof-of-Stake Sidechains,2019,IEEE Symposium on Security and Privacy,10.1109/sp.2019.00040,,229,D,S1,13,1,LC,F,yes
+R0033,database,Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability,2019,,10.14722/ndss.2019.23330,,281,D,S1,567,67,"PCN,PRIV",FE,no
+R0042,database,Proof-of-Work Sidechains,2019,IACR Cryptology ePrint Archive,10.1007/978-3-030-43725-1_3,,124,D,S1,1,1,LC,F,no
+R0175,database,An Approach of Secure Two-Way-Pegged Multi-sidechain,2019,International Conference on Algorithms and Architectures for Parallel Processing,10.1007/978-3-030-38961-1_47,,10,D,S1,13,1,LC,N,yes
+R0178,database,Atomic Swapping Bitcoins and Ethers,2019,IEEE International Symposium on Reliable Distributed Systems,10.1109/srds47363.2019.00054,,9,D,S1,5,5,SWAP,E,yes
+R0191,database,Extending Atomic Cross-Chain Swaps,2019,DPM/CBT@ESORICS,10.1007/978-3-030-31500-9_14,,28,D,S1,5,5,SWAP,F,yes
+R0211,database,AgentChain: A Decentralized Cross-Chain Exchange System,2019,"2019 18th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/13th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE)",10.1109/trustcom/bigdatase.2019.00072,,30,D,S1,1,1,COM,E,yes
+R0228,database,HyperService: Interoperability and Programmability Across Heterogeneous Blockchains,2019,Conference on Computer and Communications Security,10.1145/3319535.3355503,1908.09343,139,D,S1,15,5,ATOM,F,yes
+R0311,database,Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware,2019,Conference on Computer and Communications Security,10.1145/3319535.3363221,,179,D,S1,56,56,TEE,E,yes
+R0356,database,"XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets",2019,IEEE Symposium on Security and Privacy,10.1109/sp.2019.00085,,238,D,S1,13,1,"COM,ECON",FE,yes
+R1827,database,On the optionality and fairness of Atomic Swaps,2019,IACR Cryptology ePrint Archive,10.1145/3318041.3355460,,61,D,S1,56,56,"SWAP,ECON",FE,no
+R2030,database,Application Level Authentication for Ethereum Private Blockchain Atomic Crosschain Transactions,2019,arXiv,,1911.08083,0,D,S1,4,1,AUTH,N,no
+R2037,database,DeXTT: Deterministic Cross-Blockchain Token Transfers,2019,arXiv,,1905.06204,0,D,S1,5,5,ATOM,E,no
+R0005,database,Privacy-Preserving Cross-Chain Atomic Swaps,2020,Financial Cryptography Workshops,10.1007/978-3-030-54455-3_38,,87,D,S1,57,57,"SWAP,PRIV",F,yes
+R0069,database,zkRelay: Facilitating Sidechains using zkSNARK-based Chain-Relays,2020,2020 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW),10.1109/eurospw51379.2020.00058,,82,D,S1,1,1,ZK,E,yes
+R0088,database,Anonymous scheme for blockchain atomic swap based on zero-knowledge proof,2020,2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA),10.1109/icaica50127.2020.9181875,,18,D,S1,7,7,"SWAP,PRIV",E,yes
+R0129,database,Atomic commitment across blockchains,2020,Proceedings of the VLDB Endowment,10.14778/3397230.3397231,1905.02847,111,D,S1,5,5,SWAP,FE,yes
+R0145,database,Research and Implementation of Cross-Chain Transaction Model Based on Improved Hash-Locking,2020,Communications in computer and information science,10.1007/978-981-15-9213-3_17,,48,D,S1,5,5,SWAP,E,yes
+R0160,database,MAD-HTLC: Because HTLC is Crazy-Cheap to Attack,2020,IEEE Symposium on Security and Privacy,10.1109/sp40001.2021.00080,2006.12031,100,D,S1,56,56,"SWAP,ECON",FE,yes
+R0276,database,Atomic cross chain swaps via relays and adapters,2020,CryBlock@MOBICOM,10.1145/3410699.3413799,,22,D,S1,5,5,SWAP,N,yes
+R0297,database,Research on Multidomain Authentication of IoT Based on Cross-Chain Technology,2020,Security and Communication Networks,10.1155/2020/6679022,,20,D,S1,4,1,AUTH,E,yes
+R0298,database,A Sidechain-Based Decentralized Authentication Scheme via Optimized Two-Way Peg Protocol for Smart Community,2020,IEEE Open Journal of the Communications Society,10.1109/ojcoms.2020.2972742,,35,D,S1,1,1,AUTH,E,yes
+R0334,database,Inter-blockchain protocols with the Isabelle Infrastructure framework,2020,Formal Methods,10.4230/lipics.fmbc.2020.23,1905.00325,5,D,S1,5,5,FM,F,yes
+R0678,database,A Blockchain Model in Tamarin and Formal Analysis of Hash Time Lock Contract,2020,FMBC@CAV,10.4230/oasics.fmbc.2020.5,,11,D,S1,5,5,FM,F,yes
+R0984,database,An Inter-blockchain Escrow Approach for Fast Bitcoin Payment,2020,IEEE International Conference on Distributed Computing Systems,10.1109/icdcs47774.2020.00148,,0,D,S1,2,5,SWAP,E,yes
+R1934,database,General Purpose Atomic Crosschain Transactions,2020,Conference on Blockchain Research & Applications for Innovative Networks and Services,10.1109/brains52497.2021.9569837,2011.12783,43,D,S1,5,5,ATOM,E,yes
+R2013,database,A Game-Theoretic Analysis of Cross-Chain Atomic Swaps with HTLCs,2020,arXiv (International Conference on Distributed Computing Systems (ICDCS) (2021) 584-594),10.1109/icdcs51616.2021.00062,2011.11325,0,D,S1,56,5,ECON,F,no
+R2022,database,Layer 2 Atomic Cross-Blockchain Function Calls,2020,arXiv,,2005.09790,0,D,S1,5,5,ATOM,E,no
+R2026,database,Testimonium: A Cost-Efficient Blockchain Relay,2020,arXiv,,2002.12837,0,D,S1,1,1,LC,E,no
+R2027,database,Zendoo: a zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains,2020,arXiv,,2002.01847,0,D,S1,13,1,"ZK,LC",FE,no
+R0012,database,Hermes: Fault-tolerant middleware for blockchain interoperability,2021,Future generations computer systems,10.1016/j.future.2021.11.004,,94,D,S1,5,5,ARCH,E,yes
+R0015,database,InterTrust: Towards an Efficient Blockchain Interoperability Architecture with Trusted Services,2021,International Congress on Blockchain and Applications,10.1109/blockchain53845.2021.00029,,44,D,S1,15,1,TEE,E,yes
+R0020,database,Sidechains With Fast Cross-Chain Transfers,2021,IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2021.3114151,,57,D,S1,1,1,LC,FE,yes
+R0021,database,Atomic Crosschain Transactions for Ethereum Private Sidechains,2021,Blockchain Research and Applications,10.1016/j.bcra.2021.100030,1904.12079,51,D,S1,5,5,ATOM,N,yes
+R0031,database,Burn-to-Claim: An asset transfer protocol for blockchain interoperability,2021,Comput. Networks,10.1016/j.comnet.2021.108495,,41,D,S1,12,5,SWAP,F,yes
+R0053,database,Enabling Cross-Chain Transactions: A Decentralized Cryptocurrency Exchange Protocol,2021,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2021.3096124,2005.03199,106,D,S1,5,5,SWAP,E,yes
+R0061,database,Hedging Against Sore Loser Attacks in Cross-Chain Transactions,2021,ACM SIGACT-SIGOPS Symposium on Principles of Distributed Computing,10.1145/3465084.3467904,2105.06322,46,D,S1,5,5,SWAP,F,yes
+R0070,database,Security and Standardization of a Notary-based Blockchain Interoperability API,2021,International Conference on Blockchain Computing and Applications,10.1109/bcca53669.2021.9656961,,14,D,S1,7,7,PRIV,E,yes
+R0075,database,IBE-BCIOT: an IBE based cross-chain communication mechanism of blockchain in IoT,2021,World Wide Web,10.1007/s11280-021-00864-9,,44,D,S1,14,1,AUTH,E,yes
+R0079,database,AucSwap: A Vickrey auction modeled decentralized cross-blockchain asset transfer protocol,2021,Journal of systems architecture,10.1016/j.sysarc.2021.102102,,63,D,S1,5,5,SWAP,E,yes
+R0093,database,Privacy-Preserving Cross-Chain Payment Scheme for Blockchain-Enabled Energy Trading,2021,2021 IEEE/CIC International Conference on Communications in China (ICCC),10.1109/iccc52777.2021.9580292,,21,D,S1,7,7,PRIV,E,yes
+R0113,database,Practical AgentChain: A compatible cross-chain exchange system,2021,Future Generation Computer Systems,10.1016/j.future.2021.11.029,,53,D,S1,1,1,COM,E,yes
+R0154,database,TrustCross: Enabling Confidential Interoperability across Blockchains Using Trusted Hardware,2021,International Conference on Blockchain Technology and Applications,10.1145/3510487.3510491,2103.13809,28,D,S1,7,7,"TEE,PRIV",E,yes
+R0168,database,Cumulus: A Secure BFT-based Sidechain for Off-chain Scaling,2021,International Workshop on Quality of Service,10.1109/iwqos52092.2021.9521363,,15,D,S1,13,1,"COM,OPT",E,yes
+R0246,database,Blockchain Interoperability Using Hash Time Locks,2021,Lecture notes in electrical engineering,10.1007/978-981-16-0275-7_39,,5,D,S1,5,5,SWAP,N,yes
+R0337,database,A multi-hop cross-blockchain transaction model based on improved hash-locking,2021,International Journal of Computational Science and Engineering,10.1504/ijcse.2021.119983,,5,D,S1,5,5,SWAP,E,yes
+R0369,database,Vger: a VRF based cross-chain mechanism for blockchains,2021,Journal of Physics Conference Series,10.1088/1742-6596/1780/1/012038,,5,D,S1,1,1,COM,N,yes
+R0376,database,Lockable Signatures for Blockchains: Scriptless Scripts for All Signatures,2021,IEEE Symposium on Security and Privacy,10.1109/sp40001.2021.00065,,41,D,S1,5,5,PCN,F,yes
+R0405,database,JointCloud Cross-chain Verification Model of Decentralized Identifiers,2021,"IEEE International Performance, Computing, and Communications Conference",10.1109/ipccc51483.2021.9679363,,9,D,S1,4,1,AUTH,E,yes
+R0668,database,Cross-chain Interaction Model In a Fully Verified Way,2021,arXiv.org,,2106.05463,3,D,S1,1,1,LC,E,no
+R1043,database,Mining in Logarithmic Space,2021,IACR Cryptology ePrint Archive,10.1145/3460120.3484784,,14,D,S1,1,1,LC,F,no
+R2005,database,A Voting-Based Blockchain Interoperability Oracle,2021,arXiv,,2111.10091,0,D,S1,1,1,COM,E,no
+R2010,database,A Game-Theoretic Analysis of Cross-Ledger Swaps with Packetized Payments,2021,arXiv (Workshop Proceedings of Financial Cryptography and Data Security (2021) 177-187),10.1007/978-3-662-63958-0_16,2103.02056,0,D,S1,56,5,ECON,F,no
+R0007,database,Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains,2022,2022 IEEE Symposium on Security and Privacy (SP),10.1109/sp46214.2022.9833731,,134,D,S1,5,5,SWAP,FE,yes
+R0016,database,ZeroCross: A sidechain-based privacy-preserving Cross-chain solution for Monero,2022,Journal of Parallel and Distributed Computing,10.1016/j.jpdc.2022.07.008,,57,D,S1,7,7,PRIV,E,yes
+R0035,database,"Bool Network: An Open, Distributed, Secure Cross-Chain Notary Platform",2022,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2022.3209546,,83,D,S1,1,1,"COM,TEE",E,yes
+R0067,database,A Secure Interoperability Management Scheme for Cross-Blockchain Transactions,2022,Symmetry,10.3390/sym14122473,,16,D,S1,1,1,COM,E,yes
+R0071,database,A notary group-based cross-chain mechanism,2022,Digital Communications and Networks,10.1016/j.dcan.2022.04.012,,89,D,S1,16,1,"COM,ECON",E,yes
+R0090,database,Securing Cross-Chain Asset Transfers on Permissioned Blockchains,2022,,10.36227/techrxiv.19651248.v3,,12,D,S1,15,15,"COM,ECON",E,no
+R0094,database,Trust Development for Blockchain Interoperability Using Self-sovereign Identity Integration,2022,"IEEE Annual Information Technology, Electronics and Mobile Communication Conference",10.1109/iemcon56893.2022.9946562,,12,D,S1,4,1,AUTH,E,yes
+R0108,database,DCIV: Decentralized cross-chain data integrity verification with blockchain,2022,Journal of King Saud University - Computer and Information Sciences,10.1016/j.jksuci.2022.07.015,,26,D,S1,1,1,INTEG,E,yes
+R0110,database,BeDCV: Blockchain-Enabled Decentralized Consistency Verification for Cross-Chain Calculation,2022,IEEE Transactions on Cloud Computing,10.1109/tcc.2022.3196937,,29,D,S1,1,1,INTEG,E,yes
+R0127,database,LightSwap: An Atomic Swap Does Not Require Timeouts At Both Blockchains,2022,IACR Cryptology ePrint Archive,10.1007/978-3-031-25734-6_14,,17,D,S1,5,5,SWAP,F,no
+R0132,database,A secure cross-chain transaction model based on quantum multi-signature,2022,Quantum Information Processing,10.1007/s11128-022-03600-y,,20,D,S1,1,1,COM,N,yes
+R0143,database,Decentralized cross-blockchain asset transfers with transfer confirmation,2022,Cluster Computing,10.1007/s10586-022-03737-6,,17,D,S1,25,5,ATOM,E,yes
+R0165,database,ARC: An Asynchronous Consensus and Relay Chain-based Cross-chain Solution to Consortium Blockchain,2022,International Conference on Cyber Security and Cloud Computing,10.1109/cscloud-edgecom54986.2022.00024,,23,D,S1,15,1,COM,E,yes
+R0172,database,A Decentralized Cross-Chain Service Protocol based on Notary Schemes and Hash-Locking,2022,IEEE International Conference on Services Computing,10.1109/scc55611.2022.00033,,47,D,S1,16,1,"COM,SWAP,ECON",E,yes
+R0184,database,Atomic cross-chain exchanges of shared assets,2022,Conference on Advances in Financial Technologies,10.1145/3558535.3559786,2202.12855,31,D,S1,5,5,SWAP,F,yes
+R0187,database,A Privacy Protection Scheme for Cross-Chain Transactions Based on Group Signature and Relay Chain,2022,International Journal of Digital Crime and Forensics,10.4018/ijdcf.302876,,20,D,S1,7,7,PRIV,N,yes
+R0203,database,PTLC: Protect the Identity Privacy during Cross-Chain Asset Transaction More Effectively,2022,"IEEE International Conference on Software Quality, Reliability and Security Companion",10.1109/qrs-c57518.2022.00019,,17,D,S1,7,7,"SWAP,PRIV",E,yes
+R0208,database,Blockchain-Oriented Privacy Protection with Online and Offline Verification in Cross-Chain System,2022,2022 International Conference on Blockchain Technology and Information Security (ICBCTIS),10.1109/icbctis55569.2022.00048,,7,D,S1,47,7,"PRIV,AUTH",E,yes
+R0218,database,Bridging Sapling: Private Cross-Chain Transfers,2022,2022 IEEE Crosschain Workshop (ICBC-CROSS),10.1109/icbc-cross54895.2022.9793325,2204.10611,22,D,S1,37,7,"PRIV,COM",E,yes
+R0229,database,TrustBoost: Boosting Trust among Interoperable Blockchains,2022,IACR Cryptology ePrint Archive,10.1145/3576915.3623080,2210.11571,32,D,S1,1,1,ECON,F,no
+R0241,database,SEPoW: Secure and Efficient Proof of Work Sidechains,2022,Lecture notes in computer science,10.1007/978-3-030-95391-1_24,,6,D,S1,1,1,LC,F,yes
+R0274,database,zkBridge: Trustless Cross-chain Bridges Made Practical,2022,Conference on Computer and Communications Security,10.1145/3548606.3560652,2210.00264,237,D,S1,1,1,ZK,E,yes
+R0288,database,Efficient ECDSA-Based Adaptor Signature for Batched Atomic Swaps,2022,Lecture notes in computer science,10.1007/978-3-031-22390-7_12,,11,D,S1,5,5,SWAP,F,yes
+R0348,database,Anonymous Sidechains,2022,Lecture notes in computer science,10.1007/978-3-030-93944-1_17,,5,D,S1,17,7,"LC,PRIV",F,yes
+R0390,database,BxTB: cross-chain exchanges of bitcoins for all Bitcoin wrapped tokens,2022,International Conference on Blockchain Computing and Applications,10.1109/bcca55292.2022.9922019,,11,D,S1,1,1,LC,F,yes
+R0454,database,Hash time locked contract based asset exchange solution for probabilistic public blockchains,2022,Cluster Computing,10.1007/s10586-022-03643-x,,18,D,S1,5,5,SWAP,N,yes
+R0492,database,Research on cross-chain method based on distributed Digital Identity,2022,International Conferences on Blockchain Technology,10.1145/3532640.3532649,,9,D,S1,4,1,AUTH,N,yes
+R0514,database,Novel Hash-time-lock-contract Based Cross-chain Token Swap Mechanism of Blockchain,2022,DOAJ (DOAJ: Directory of Open Access Journals),10.11896/jsjkx.210600170,,3,D,S1,5,5,SWAP,E,yes
+R0537,database,UCC: Universal and Committee-based Cross-chain Framework,2022,Lecture notes in computer science,10.1007/978-3-031-21280-2_6,,5,D,S1,1,1,COM,N,yes
+R0540,database,Privacy-Preserving Decentralized Cryptocurrency Exchange without Price Manipulation,2022,2022 IEEE/CIC International Conference on Communications in China (ICCC),10.1109/iccc55456.2022.9880750,,8,D,S1,567,67,"SWAP,TEE,PRIV",E,yes
+R0627,database,PCT: A Relay-Based Privacy-Preserving Cross-Chain Transaction Scheme,2022,Communications in computer and information science,10.1007/978-981-19-8877-6_6,,1,D,S1,7,7,PRIV,N,yes
+R0670,database,SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs,2022,arXiv (Cornell University),10.48550/arxiv.2210.13242,2210.13242,8,D,S1,67,67,"PRIV,ZK",E,no
+R0867,database,He-HTLC: Revisiting Incentives in HTLC,2022,IACR Cryptology ePrint Archive,10.14722/ndss.2023.24775,,34,D,S1,56,56,"SWAP,ECON",FE,no
+R0880,database,Verilay: A Verifiable Proof of Stake Chain Relay,2022,International Conference on Blockchain,10.1109/icbc54727.2022.9805554,2201.08697,30,D,S1,1,1,LC,E,yes
+R1117,database,Dynamic Notary Group Election Algorithm Based on Reputation Value,2022,Atlantis Highlights in Intelligent Systems/Atlantis highlights in intelligent systems,10.2991/978-94-6463-030-5_89,,3,D,S1,1,1,"COM,TRUST",E,yes
+R1329,database,Proofs of Proof-of-Stake with Sublinear Complexity,2022,IACR Cryptology ePrint Archive,10.48550/arxiv.2209.08673,2209.08673,19,D,S1,1,1,LC,FE,no
+R1478,database,AHash Time Lock Based on Double Encryption Algorithm,2022,2022 4th International Conference on Frontiers Technology of Information and Computer (ICFTIC),10.1109/icftic57696.2022.10075238,,1,D,S1,5,5,SWAP,N,yes
+R1996,database,Towards faster settlement in HTLC-based Cross-Chain Atomic Swaps,2022,arXiv,,2211.15804,0,D,S1,56,5,SWAP,F,no
+R1997,database,Cross-chain Swaps with Preferences,2022,arXiv,,2210.11791,0,D,S1,5,5,SWAP,F,no
+R2001,database,Cross-Chain State Machine Replication,2022,arXiv,,2206.07042,0,D,S1,5,5,ATOM,F,no
+R2002,database,Transferable Cross-Chain Options,2022,arXiv,,2205.02971,0,D,S1,5,5,SWAP,F,no
+R0030,database,Formal Verification of the Burn-to-Claim Blockchain Interoperable Protocol,2023,IEEE International Conference on Formal Engineering Methods,10.1007/978-981-99-7584-6_15,,7,D,S1,5,5,FM,F,yes
+R0059,database,An Anonymous and Supervisory Cross-chain Privacy Protection Protocol for Zero-trust IoT Application,2023,ACM Transactions on Sensor Networks,10.1145/3583073,,34,D,S1,7,7,PRIV,E,yes
+R0074,database,A post-quantum blockchain notary scheme for cross-blockchain exchange,2023,Computers & Electrical Engineering,10.1016/j.compeleceng.2023.108832,,23,D,S1,1,1,COM,E,yes
+R0096,database,Formal verification of the pub-sub blockchain interoperability protocol using stochastic timed automata,2023,Frontiers in Blockchain,10.3389/fbloc.2023.1248962,,3,D,S1,5,5,FM,F,yes
+R0098,database,PSSC: Practical and Secure Sidechain Construction for Heterogeneous Blockchains Orienting IoT,2023,IEEE Internet of Things Journal,10.1109/jiot.2023.3302291,,17,D,S1,1,1,"ZK,ECON",E,yes
+R0114,database,CCIO: A Cross-Chain Interoperability Approach for Consortium Blockchains Based on Oracle,2023,Sensors,10.3390/s23041864,,30,D,S1,17,17,"COM,PRIV",E,yes
+R0116,database,MP‐HTLC: Enabling blockchain interoperability through a multiparty implementation of the hash time‐lock contract,2023,Concurrency and Computation Practice and Experience,10.1002/cpe.7656,,22,D,S1,5,5,SWAP,FE,yes
+R0126,database,Harmonia: Securing Cross-Chain Applications Using Zero-Knowledge Proofs,2023,,10.36227/techrxiv.170327806.66007684/v1,,14,D,S1,1,1,"ZK,LC",E,no
+R0133,database,Cross-Chain Virtual Payment Channels,2023,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2023.3281064,,42,D,S1,57,5,PCN,F,yes
+R0157,database,PACDAM: Privacy-Preserving and Adaptive Cross-Chain Digital Asset Marketplace,2023,IEEE Internet of Things Journal,10.1109/jiot.2023.3337859,,17,D,S1,57,57,"SWAP,PRIV",E,yes
+R0176,database,PXCrypto: A Regulated Privacy-Preserving Cross-Chain Transaction Scheme,2023,Lecture notes in computer science,10.1007/978-3-031-22677-9_10,,15,D,S1,7,7,PRIV,F,yes
+R0204,database,A secure dynamic cross-chain decentralized data consistency verification model,2023,Journal of King Saud University - Computer and Information Sciences,10.1016/j.jksuci.2023.101897,,11,D,S1,1,1,INTEG,E,yes
+R0219,database,ChainPass: A Privacy-preserving Complete Cross-chain Authentication for Consortium Blockchains,2023,"International Conference on Trust, Security and Privacy in Computing and Communications",10.1109/trustcom60117.2023.00063,,6,D,S1,47,7,"AUTH,PRIV",E,yes
+R0227,database,A Secure Cross-chain Mechanism Based on Relay Chain and Smart Contract Encryption Scheme,2023,2023 11th International Conference on Information Systems and Computing Technology (ISCTech),10.1109/isctech60480.2023.00023,,4,D,S1,17,17,"COM,PRIV",E,yes
+R0242,database,Cross-Chain Asset Transaction Method Based on Ring Signature for Identity Privacy Protection,2023,Electronics,10.3390/electronics12245010,,12,D,S1,7,7,PRIV,E,yes
+R0247,database,A Scalable Cross-Chain Access Control and Identity Authentication Scheme,2023,Sensors,10.3390/s23042000,,29,D,S1,4,1,AUTH,E,yes
+R0253,database,Sidechains With Optimally Succinct Proof,2023,IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2023.3328430,,14,D,S1,1,1,COM,F,yes
+R0261,database,A Trusted Privacy-Preserving Model for Cross-Chain Transactions Based on zk_SNARKs,2023,International Conference on Networking and Network Applications,10.1109/nana60121.2023.00039,,4,D,S1,7,7,"PRIV,TEE",E,yes
+R0289,database,Cross-chain Supervision Mechanism of Distributed Notaries for Consortium Blockchain,2023,2023 6th International Conference on Artificial Intelligence and Big Data (ICAIBD),10.1109/icaibd57115.2023.10206042,,8,D,S1,14,1,COM,E,yes
+R0292,database,Achieving Distributed and Privacy-Preserving Cross-Chain Transactions in Account-Model Blockchain Systems,2023,"2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)",10.1109/metacom57706.2023.00060,,4,D,S1,7,7,PRIV,E,yes
+R0294,database,Cross-Channel: Scalable Off-Chain Channels Supporting Fair and Atomic Cross-Chain Operations,2023,IEEE Transactions on Computers,10.1109/tc.2023.3288765,2212.07265,34,D,S1,5,5,PCN,F,yes
+R0331,database,A distributed cross-chain mechanism based on notary schemes and group signatures,2023,Journal of King Saud University - Computer and Information Sciences,10.1016/j.jksuci.2023.101862,,17,D,S1,14,1,COM,F,yes
+R0345,database,LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures,2023,IACR Cryptology ePrint Archive,10.1145/3576915.3623149,,15,D,S1,5,5,"SWAP,FM",F,no
+R0401,database,CrossLedger: A Pioneer Cross-chain Asset Transfer Protocol,2023,"IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing",10.1109/ccgrid57682.2023.00059,,10,D,S1,57,7,"COM,PRIV",F,yes
+R0402,database,Three-Stage Cross-Chain Protocol Based on Notary Group,2023,Electronics,10.3390/electronics12132804,,12,D,S1,1,1,COM,E,yes
+R0419,database,A cross-chain identity authentication scheme based on DID,2023,International Congress on Blockchain and Applications,10.1109/blockchain60715.2023.00037,,8,D,S1,4,1,AUTH,E,yes
+R0420,database,"Secure, Efficient, and Privacy-Protecting One-to-Many Cross-Chain Shared Data Consistency Audit",2023,"2023 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)",10.1109/ispa-bdcloud-socialcom-sustaincom59178.2023.00041,,1,D,S1,17,7,"INTEG,PRIV",FE,yes
+R0429,database,Cross-chain payment protocols with success guarantees,2023,Distributed Computing,10.1007/s00446-023-00446-0,1912.04513,10,D,S1,5,5,FM,F,yes
+R0450,database,Building a Cross-Chain Identity: A Self-Sovereign Identity-Based Framework,2023,IEEE International Conference on Decentralized Applications and Infrastructures,10.1109/dapps57946.2023.00029,,11,D,S1,4,1,AUTH,E,yes
+R0475,database,BEAIV: Blockchain Empowered Accountable Integrity Verification Scheme for Cross-Chain Data,2023,Lecture notes in computer science,10.1007/978-981-99-6222-8_41,,3,D,S1,1,1,INTEG,N,yes
+R0496,database,Secure and trusted interoperability scheme of heterogeneous blockchains platform in IoT networks,2023,China Communications,10.23919/jcc.fa.2022-0607.202311,,1,D,S1,4,1,AUTH,N,yes
+R0517,database,Research on Cross-Chain Consensus Models in Complex Trust Environments,2023,International Conference on Networking and Network Applications,10.1109/nana60121.2023.00065,,2,D,S1,1,1,"COM,TRUST",E,yes
+R0529,database,Implementing Secure Bridges: Learnings from the Secure Asset Transfer Protocol,2023,International Conference on Blockchain,10.1109/icbc56567.2023.10174878,,10,D,S1,125,5,"ARCH,ATOM",E,yes
+R0532,database,Threshold/Multi Adaptor Signature and Their Applications in Blockchains,2023,Electronics,10.3390/electronics13010076,,11,D,S1,5,5,SWAP,F,yes
+R0564,database,Interchain Timestamping for Mesh Security,2023,Conference on Computer and Communications Security,10.1145/3576915.3616612,2305.07830,15,D,S1,1,1,ECON,F,yes
+R0566,database,NFT Cross-Chain Transfer Method Under the Notary Group Scheme,2023,International Conference on Computer Supported Cooperative Work in Design,10.1109/cscwd57460.2023.10152551,,9,D,S1,1,1,"COM,TRUST",E,yes
+R0614,database,Double-Layer Blockchain-Based Decentralized Integrity Verification for Multi-chain Cross-Chain Data,2023,Lecture notes in computer science,10.1007/978-981-99-8076-5_19,,2,D,S1,1,1,INTEG,N,yes
+R0661,database,Trust-minimized optimistic cross-rollup arbitrary message bridge,2023,Journal of Network and Computer Applications,10.1016/j.jnca.2023.103771,,9,D,S1,1,1,OPT,E,yes
+R0757,database,Reaching consensus for membership dynamic in secret sharing and its application to cross-chain,2023,High-Confidence Computing,10.1016/j.hcc.2023.100131,,2,D,S1,1,1,COM,F,yes
+R0769,database,Two-Phase Election Algorithm for Cross-Chain Notaries,2023,2023 3rd International Conference on Computer Science and Blockchain (CCSB),10.1109/ccsb60789.2023.10398755,,2,D,S1,1,1,"COM,TRUST",E,yes
+R0806,database,A Cross-Chain Identity Authentication Scheme for WSNs Based on Relay Chain,2023,2023 International Conference on Blockchain Technology and Information Security (ICBCTIS),10.1109/icbctis59921.2023.00028,,1,D,S1,4,1,AUTH,E,yes
+R0909,database,Anonymity-Enhancing Multi-Hop Locks for Monero-Enabled Payment Channel Networks,2023,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2023.3346177,,17,D,S1,57,7,"PCN,PRIV",F,yes
+R0947,database,Formal Analysis of IBC Protocol,2023,IEEE International Conference on Network Protocols,10.1109/icnp59255.2023.10355573,,6,D,S1,125,45,FM,F,yes
+R0997,database,BeOAC: Blockchain-enabled offline audit scheme in cross-chain interaction,2023,"2023 4th International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI)",10.1109/iccbd-ai62252.2023.00040,,0,D,S1,1,1,INTEG,E,yes
+R1047,database,A Secure and Efficient Cross-Chain Model Based on Credentials,2023,2023 5th International Conference on Frontiers Technology of Information and Computer (ICFTIC),10.1109/icftic59930.2023.10456059,,0,D,S1,1,1,COM,E,yes
+R1087,database,Auditable anonymous authentication scheme for cross-chain data transmission,2023,Other Conferences,10.1117/12.3005172,,0,D,S1,47,7,"AUTH,TEE",E,yes
+R1294,database,Glimpse: On-Demand PoW Light Client with Constant-Size Storage for DeFi,2023,USENIX Security Symposium,,,16,D,S1,1,1,LC,FE,yes
+R1405,database,A Trustworthy Data Verification Technique for Cross-Chain Data Sharing Based on Merkle Trees,2023,2023 International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE),10.1109/icdcece57866.2023.10150492,,2,D,S1,1,1,INTEG,E,yes
+R1720,database,A Multiple Indicator Credit Ranking Scheme Based on Notary Mechanism,2023,"2023 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf on Pervasive Intelligence and Computing, Intl Conf on Cloud and Big Data Computing, Intl Conf on Cyber Science and Technology Congress (DASC/PiCom/CBDCom/CyberSciTech)",10.1109/dasc/picom/cbdcom/cy59711.2023.10361347,,1,D,S1,1,1,"COM,TRUST",E,yes
+R1728,database,A Hash Time Lock Mechanism Based on Threshold Algorithm,2023,2023 3rd International Conference on Computer Science and Blockchain (CCSB),10.1109/ccsb60789.2023.10398785,,1,D,S1,57,7,"SWAP,PRIV",N,yes
+R0025,database,MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications,2024,The Web Conference,10.1145/3696410.3714867,2411.00422,23,D,S1,1,1,"ZK,LC",E,yes
+R0081,database,Secure cross-chain interaction solution in multi-blockchain environment,2024,Heliyon,10.1016/j.heliyon.2024.e28861,,16,D,S1,5,5,SWAP,E,yes
+R0109,database,AtomCI: A New System for the Atomic Cross-Chain Smart Contract Invocation Spanning Heterogeneous Blockchains,2024,IEEE Transactions on Network Science and Engineering,10.1109/tnse.2023.3349192,,13,D,S1,5,5,ATOM,E,yes
+R0148,database,CrossChannel: Efficient and Scalable Cross-Chain Transactions Through Cross-and-Off-Blockchain Micropayment Channel,2024,IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2024.3411820,,26,D,S1,5,5,"PCN,LC",E,yes
+R0159,database,A cross-chain access control mechanism based on blockchain and the threshold Paillier cryptosystem,2024,Computer Communications,10.1016/j.comcom.2024.05.012,,16,D,S1,47,7,AUTH,E,yes
+R0188,database,Distributed and Parallel Blockchain: Towards a Multi-Chain System With Enhanced Security,2024,IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2024.3417531,,26,D,S1,25,5,ARCH,E,yes
+R0189,database,An agnostic and secure interoperability protocol for seamless asset movement,2024,Journal of Network and Computer Applications,10.1016/j.jnca.2024.103930,,6,D,S1,17,17,"ZK,ECON",E,yes
+R0232,database,A Framework for Full Decentralization in Blockchain Interoperability,2024,Sensors,10.3390/s24237630,,4,D,S1,1,1,LC,E,yes
+R0235,database,Privacy-Preserving Multi-Party Cross-Chain Transaction Protocols,2024,Cryptography,10.3390/cryptography8010006,,10,D,S1,57,57,"SWAP,PRIV",F,yes
+R0236,database,Relay network-based cross-chain data interaction protocol with integrity audit,2024,Computers & Electrical Engineering,10.1016/j.compeleceng.2024.109262,,11,D,S1,1,1,INTEG,N,yes
+R0250,database,Lightweight Privacy-Preserving Mechanisms for Cross-Chain Transactions,2024,International Conference on Cyber Security and Cloud Computing,10.1109/cscloud62866.2024.00018,,7,D,S1,7,7,PRIV,E,yes
+R0252,database,Reinventing Multi-User Authentication Security From Cross-Chain Perspective,2024,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2024.3463533,,13,D,S1,4,1,AUTH,F,yes
+R0262,database,Balancing Privacy and Regulation of Cross-Chain Transaction Systems via SoK-Assisted Policy Enhancement,2024,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2024.3402150,,12,D,S1,7,7,PRIV,FE,yes
+R0266,database,A privacy-preserving method for cross-chain interoperability using homomorphic encryption,2024,Peer-to-Peer Networking and Applications,10.1007/s12083-024-01813-9,,12,D,S1,7,7,PRIV,N,yes
+R0282,database,"Zephyr: A Cost-Effective, Zero-Knowledge Light Client for Enhanced Blockchain Interoperability",2024,ACM SIGMETRICS Performance Evaluation Review,10.1145/3639830.3639838,,4,D,S1,1,1,"ZK,LC",N,yes
+R0318,database,CCC-TM: Cross-Chain consensus committee method using a trust model,2024,Information Sciences,10.1016/j.ins.2024.120930,,7,D,S1,1,1,COM,N,yes
+R0322,database,Leveraging Zero-Knowledge Proofs for Blockchain Interoperability: Experiences with Ethereum and Hyperledger Fabric,2024,Latin American Computing Conference / Conferencia Latinoamericana En Informatica,10.1109/clei64178.2024.10700385,,5,D,S1,47,7,"ZK,AUTH",E,yes
+R0336,database,Formalising a Gateway-based Blockchain Interoperability Solution with Event-B,2024,International Conference on Blockchain,10.1109/icbc59979.2024.10634427,,3,D,S1,5,5,FM,F,yes
+R0343,database,Atomic Swaps for Boneh–Lynn–Shacham (BLS) Based Blockchains,2024,Lecture notes in computer science,10.1007/978-3-031-70896-1_17,,3,D,S1,5,5,SWAP,F,yes
+R0346,database,Cross-Chain Trusted Information Match Scheme with Privacy-Preserving and Auditability,2024,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",10.1007/978-3-031-60037-1_6,,1,D,S1,7,7,PRIV,N,yes
+R0373,database,A Dual Auditing Scheme of Cross-Chain Data Shared Among the Blockchain Network,2024,International Conference on Intelligent Computing,10.1007/978-981-97-5606-3_21,,2,D,S1,1,1,INTEG,N,yes
+R0387,database,SMPTC3: Secure Multi-Party Protocol Based Trusted Cross-Chain Contracts,2024,Mathematics,10.20944/preprints202407.2248.v1,,3,D,S1,17,17,"COM,PRIV",E,yes
+R0395,database,CrossDeFi: A Novel Cross-Chain Communication Protocol,2024,Future Internet,10.3390/fi16090314,,9,D,S1,15,1,COM,E,yes
+R0399,database,CrossCert: A Privacy-Preserving Cross-Chain System for Educational Credential Verification Using Zero-Knowledge Proof,2024,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",10.1007/978-3-031-67357-3_18,,6,D,S1,47,7,"ZK,AUTH",E,yes
+R0442,database,IoTAuth: A Decentralized Cross-Chain Identity Authentication Scheme for 6G Non-Terrestrial IoT Networks,2024,IEEE Network,10.1109/mnet.2024.3381081,,12,D,S1,4,1,AUTH,E,yes
+R0467,database,Atomicity and Abstraction for Cross-Blockchain Interactions,2024,arXiv.org,10.48550/arxiv.2403.07248,2403.07248,8,D,S1,5,5,ATOM,FE,no
+R0476,database,Toward a Secure and Private Cross-Chain Protocol Based on Encrypted Communication,2024,Electronics,10.3390/electronics13163116,,2,D,S1,57,7,"SWAP,PRIV",E,yes
+R0501,database,Atomic cross-chain swap based on private key exchange,2024,Cybersecurity,10.1186/s42400-023-00202-8,,7,D,S1,57,5,SWAP,F,yes
+R0519,database,HT2REP : A fair cross-chain atomic exchange protocol under UC framework based on HTLCs and TRE,2024,Computer Standards & Interfaces,10.1016/j.csi.2024.103834,,9,D,S1,5,5,SWAP,F,yes
+R0535,database,Alba: The Dawn of Scalable Bridges for Blockchains,2024,IACR Cryptology ePrint Archive,10.14722/ndss.2025.241286,,16,D,S1,1,1,"PCN,LC",FE,no
+R0542,database,A Cross-Chain Privacy Protection and Key Sharing Scheme Based on Relay Chain,2024,International Conference on Computer Supported Cooperative Work in Design,10.1109/cscwd61410.2024.10580314,,2,D,S1,7,7,PRIV,E,yes
+R0563,database,A Flexible and Privacy-preserving Cross-chain Identity Authentication System based on Anonymous Credentials,2024,International Symposium on Blockchain and Secure Critical Infrastructure,10.1145/3659463.3660024,,4,D,S1,47,7,"AUTH,PRIV",F,yes
+R0577,database,Calculation and selection scheme of node reputation values for notary mechanism in cross-chain,2024,The Journal of Supercomputing,10.1007/s11227-024-06152-3,,6,D,S1,1,1,"COM,TRUST",N,yes
+R0579,database,Hash Time Lock with Dynamic Premium Based on Credit in Cross-Chain Transaction,2024,International Congress on Blockchain and Applications,10.1109/blockchain62396.2024.00025,,5,D,S1,56,5,"SWAP,ECON",E,yes
+R0596,database,Cross-chain asset trading scheme for notaries based on edge cloud storage,2024,Journal of Cloud Computing Advances Systems and Applications,10.1186/s13677-024-00648-2,,6,D,S1,1,1,"COM,TRUST",E,yes
+R0605,database,Ensuring Cross-Chain Transmission Technique Utilizing TPM and Establishing Cross-Trusted Root Security via SM Algorithm,2024,Electronics,10.3390/electronics13152978,,1,D,S1,17,1,TEE,E,yes
+R0636,database,Multi-Party Cross-Chain Asset Transfers,2024,International Conference on Blockchain,10.1109/icbc59979.2024.10634367,,8,D,S1,5,5,ATOM,E,yes
+R0647,database,A Novel Cross-Chain Relay Method Based on Node Trust Evaluation,2024,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",10.1007/978-3-031-51399-2_1,,1,D,S1,1,1,TRUST,N,yes
+R0703,database,A Technique for Ensured Cross Chain IBC Transactions Using TPM,2024,2024 2nd International Conference on Big Data and Privacy Computing (BDPC),10.1109/bdpc59998.2024.10649356,,2,D,S1,17,1,TEE,E,yes
+R0733,database,Cross-Chain Asset Transaction Method Based on Decentralized Digital Identity,2024,2024 4th International Conference on Blockchain Technology and Information Security (ICBCTIS),10.1109/icbctis64495.2024.00018,,2,D,S1,47,7,"AUTH,PRIV",E,yes
+R0752,database,Enabling Fast Settlement in Atomic Cross-Chain Swaps,2024,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",10.1007/978-3-031-64948-6_20,,1,D,S1,5,5,SWAP,N,yes
+R0779,database,Bridging Economic Model and Blockchain: ZKP Empowered Privacy Preserving Payment Channel with Intermediary Pricing,2024,International Conference on Wireless Communications and Mobile Computing,10.1109/iwcmc61514.2024.10592598,,1,D,S1,67,7,"PCN,PRIV",E,yes
+R0785,database,Cross-chain Transaction Tracking Protocol based on Multi-dimensional Digital Watermarking Fingerprints,2024,2024 6th International Conference on Frontier Technologies of Information and Computer (ICFTIC),10.1109/icftic64248.2024.10913002,,1,D,S1,4,-,INTEG,E,yes
+R1017,database,Security Transfer Analysis of Inter-Blockchain Consensus Algorithm Including Slashing in Delay-Tolerant Payment Networks,2024,Information and Communication Technology Convergence,10.1109/ictc62082.2024.10827203,,0,D,S1,1,1,"PCN,ECON",F,yes
+R1023,database,A Post-Quantum Cross-Domain Authentication Scheme Based on Multi-Chain Architecture,2024,"Computers, materials & continua/Computers, materials & continua (Print)",10.32604/cmc.2024.046816,,5,D,S1,4,1,"AUTH,SWAP",F,yes
+R1129,database,sigBridge: A Cross-chain Bridge for Permissioned Blockchains and its application to decentralized access control,2024,Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences,10.24251/hicss.2024.612,,0,D,S1,1,1,LC,E,yes
+R1155,database,Cross-Chain Asset Trading Scheme Without Trusted Third-Party,2024,Lecture notes in computer science,10.1007/978-981-97-8540-7_3,,0,D,S1,5,5,SWAP,N,yes
+R1288,database,"Cross-Chain Options: A Bridgeless, Universal, and Efficient Approach",2024,2025 IEEE International Conference on Web Services (ICWS),10.1109/icws67624.2025.00118,2410.15724,2,D,S1,5,5,SWAP,E,yes
+R1335,database,DECS: A Decentralized and Efficient Cross-Chain Scheme in IoT System,2024,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",10.1007/978-3-031-65126-7_13,,0,D,S1,1,1,COM,N,yes
+R1371,database,Cross-Chain Identity Authentication for BIoMT with Multi-chain Fusion Mode,2024,Communications in computer and information science,10.1007/978-981-99-9331-4_5,,0,D,S1,4,1,AUTH,N,yes
+R1408,database,Decentralized and Lightweight Cross-Chain Transaction Scheme Based on Proxy Re-signature,2024,"International Conference on Trust, Security and Privacy in Computing and Communications",10.1109/trustcom63139.2024.00170,,0,D,S1,1,1,COM,F,yes
+R1490,database,A Cross-Chain Scheme Combining Notary with Linkable Ring Signature and Hash Time Lock Contract,2024,Atlantis Highlights in Computer Sciences/Atlantis highlights in computer sciences,10.2991/978-94-6463-419-8_28,,0,D,S1,17,17,"COM,SWAP",N,yes
+R1497,database,F2C2T: A Freeze-Free Cross-chain Transfer Consistency Guarantee Mechanism for Data Asset with Associations,2024,2024 IEEE International Conference on Web Services (ICWS),10.1109/icws62655.2024.00136,,0,D,S1,25,5,ATOM,E,yes
+R1508,database,EXTENDING THE SPV CONTRACT CONCEPT WITH PRIVACY GADGETS,2024,Telecommunication and information technologies,10.31673/2412-4338.2024.024961,,1,D,S1,17,7,"LC,PRIV",N,yes
+R1715,database,Blink: An Optimal Proof of Proof-of-Work,2024,IACR Cryptology ePrint Archive,10.1007/978-3-032-07035-7_11,,6,D,S1,1,1,LC,F,no
+R1865,database,Efficient Privacy-Preserving Integrity Auditing Scheme for Cross-Chain Data in Block-Chain Networks,2024,"Proceedings of the 2024 2nd International Conference on Electronics, Computers and Communication Technology",10.1145/3705754.3705789,,0,D,S1,17,7,"INTEG,PRIV",E,yes
+R1887,database,A Novel zk-SNARKs Method for Cross-chain Transactions in Multi-chain System,2024,"International Conference on Trust, Security and Privacy in Computing and Communications",10.1109/trustcom63139.2024.00178,,1,D,S1,7,7,"ZK,PRIV",E,yes
+R1990,database,Cross-Blockchain Communication Using Oracles With an Off-Chain Aggregation Mechanism Based on zk-SNARKs,2024,arXiv,,2405.08395,0,D,S1,1,1,"ZK,COM",E,no
+O004,other,DAVE-CC: A decentralized access-controlled verifiable ecosystem for cross-chain academic credential management,2025,J. Inf. Secur. Appl.,10.1016/j.jisa.2025.104238,,,D,S1,47,7,AUTH,E,yes
+R0049,database,DPNM: A Differential Private Notary Mechanism for Privacy Preservation in Cross-Chain Transactions,2025,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2025.3527357,,79,D,S1,7,7,PRIV,E,yes
+R0054,database,IvyCross: A Privacy-Preserving and Concurrency Control Framework for Blockchain Interoperability,2025,IEEE Transactions on Mobile Computing,10.1109/tmc.2025.3562875,,17,D,S1,57,57,"TEE,PRIV",E,yes
+R0153,database,CrossLink: A Decentralized Framework for Secure Cross-Chain Smart Contract Execution,2025,International Conference on Blockchain,10.1109/icbc64466.2025.11185102,2504.09319,5,D,S1,145,45,"ATOM,ECON",F,yes
+R0186,database,P2C2T: Preserving the Privacy of Cross-Chain Transfer,2025,IEEE Symposium on Security and Privacy,10.1109/sp61157.2025.00051,,12,D,S1,57,57,"SWAP,PRIV",FE,yes
+R0284,database,Secure cross-chain interactions: a relay chain framework with privacy and auditability solutions,2025,Cluster Computing,10.1007/s10586-025-05490-y,,2,D,S1,7,7,PRIV,N,yes
+R0290,database,Optimized Cross-Chain Transactions With Aggregated Zero-Knowledge Proofs: Enhancing Efficiency and Security,2025,IEEE Internet of Things Journal,10.1109/jiot.2024.3516036,,12,D,S1,1,1,ZK,E,yes
+R0293,database,Towards Efficient Consistency Auditing of Dynamic Data in Cross-Chain Interaction,2025,IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2025.3532320,,8,D,S1,1,1,INTEG,FE,yes
+R0299,database,Cross-Chain Technology of Consortium Blockchain Based on Identity Authentication,2025,Electronics,10.3390/electronics14061185,,6,D,S1,4,1,AUTH,E,yes
+R0315,database,$BitML^{x}$: Secure Cross-Chain Smart Contracts for Bitcoin-Style Cryptocurrencies,2025,IEEE Computer Security Foundations Symposium,10.1109/csf64896.2025.00017,2501.17733,2,D,S1,5,5,FM,F,yes
+R0327,database,privXCA: An efficient and privacy-preserving auditing architecture for cross-chain transfers,2025,Journal of Systems Architecture,10.1016/j.sysarc.2025.103662,,3,D,S1,7,7,PRIV,N,yes
+R0328,database,Privacy-Preserving and Incentive-Driven Relay-Based Framework for Cross-Domain Blockchain Interoperability,2025,International Congress on Blockchain and Applications,10.1109/blockchain67634.2025.00035,2510.14151,2,D,S1,7,7,PRIV,E,yes
+R0360,database,Secure and Efficient Data Interoperability Protocols for Multi-Blockchains Systems,2025,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2025.3615418,,1,D,S1,5,45,ATOM,E,yes
+R0378,database,Atomic Smart Contract Interoperability With High Efficiency via Cross-Chain Integrated Execution,2025,IEEE Transactions on Parallel and Distributed Systems,10.1109/tpds.2025.3614374,2502.12820,5,D,S1,5,5,ATOM,E,yes
+R0383,database,Multi-Signature and Game Based Blockchain Interoperability Oracle,2025,IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2025.3542079,,2,D,S1,1,1,"COM,ECON",E,yes
+R0407,database,Chain Bridge: A Secure Privacy-Preserving Framework for Anonymous Authentication and Cross-chain Routing,2025,Blockchain Research and Applications,10.1016/j.bcra.2025.100436,,2,D,S1,47,7,"AUTH,PRIV",E,yes
+R0408,database,Cross-Chain Identity Authentication Method Based on Relay Chain,2025,Information,10.3390/info16010027,,11,D,S1,47,7,"AUTH,PRIV",E,yes
+R0414,database,EC2P: Cost-Effective Cross-Chain Payments via Hubs Resisting the Abort Attack,2025,IEEE Transactions on Computers,10.1109/tc.2025.3590960,,5,D,S1,57,57,"PCN,PRIV",F,yes
+R0443,database,A Secure Cross-Account Audit Scheme for Cross-Chain Transactions,2025,Lecture notes in computer science,10.1007/978-981-96-1542-1_20,,1,D,S1,1,-,INTEG,N,yes
+R0462,database,Atomic and privacy-preserving cyclic cross-chain protocol based on chameleon hash function,2025,Blockchain Research and Applications,10.1016/j.bcra.2024.100262,,4,D,S1,57,57,"SWAP,PRIV",F,yes
+R0466,database,Rapidash: Atomic Swaps Secure Under User-Miner Collusion,2025,Financial Cryptography,10.1007/978-3-032-07024-1_15,,2,D,S1,56,56,"SWAP,ECON",F,yes
+R0469,database,Privacy-preserving cross-chain asset transfers using notary schemes and zero-knowledge proofs,2025,Cluster Computing,10.1007/s10586-024-05039-5,,4,D,S1,7,7,"COM,PRIV",N,yes
+R0483,database,A Bidirectional Bridge for Cross-Chain Revocation of Verifiable Credentials in Segregated Blockchains,2025,Algorithms,10.3390/a18120734,,2,D,S1,4,1,AUTH,E,yes
+R0488,database,V-ZOR: Enabling Verifiable Cross-Blockchain Communication via Quantum-Driven ZKP Oracle Relays,2025,International Conference on Blockchain Computing and Applications,10.1109/bcca66705.2025.11229691,2509.10996,3,D,S1,1,1,"ZK,ECON",E,yes
+R0494,database,Acheron: a market-based multi-relay architecture for adaptive and secure cross-chain communication,2025,Internet of Things,10.1016/j.iot.2025.101836,,3,D,S1,15,14,"COM,ECON",E,yes
+R0528,database,A Blockchain Cross-Chain Transaction Protection Scheme Based on FHE,2025,"Computers, materials & continua/Computers, materials & continua (Print)",10.32604/cmc.2025.059103,,2,D,S1,7,7,PRIV,E,yes
+R0570,database,Gateway-based Cross-Chain Transaction Protocols for Permissionless and Permissioned Blockchains,2025,IEEE International Conference on Decentralized Applications and Infrastructures,10.1109/dapps65174.2025.00014,,1,D,S1,1,1,ARCH,E,yes
+R0599,database,A privacy-preserving cross-chain cryptocurrency transfer scheme based on commitment scheme and zero-knowledge proof,2025,Computers & Electrical Engineering,10.1016/j.compeleceng.2025.110373,,2,D,S1,7,7,PRIV,N,yes
+R0604,database,Mercury: Practical Cross-Chain Exchange via Trusted Hardware,2025,IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2025.3630656,,5,D,S1,56,5,TEE,E,yes
+R0639,database,Warning! The Timeout T Cannot Protect You From Losing Coins: PipeSwap: Forcing the Timely Release of a Secret for Atomic Cross-Chain Swaps,2025,IEEE Symposium on Security and Privacy,10.1109/sp61157.2025.00245,,6,D,S1,5,5,SWAP,F,yes
+R0650,database,SharedRXC: A Trustless Privacy-Preserving Asset Cross-Chain Scheme by Liability Equalization,2025,IEEE Internet of Things Journal,10.1109/jiot.2025.3644938,,1,D,S1,7,7,"LC,PRIV",F,yes
+R0684,database,An Understandable Cross-Chain Authentication Mechanism for JointCloud Computing,2025,Journal of Computer Science and Technology,10.1007/s11390-025-4733-4,,1,D,S1,4,1,AUTH,N,yes
+R0791,database,Quantum-Safe Hash Time-Locked Cross-Chain Transaction Mechanism,2025,Studies in computational intelligence,10.1007/978-3-031-78373-9_6,,1,D,S1,5,5,SWAP,N,yes
+R0794,database,A multi-notary cross-chain system with supervision and identity tracking,2025,Peer-to-Peer Networking and Applications,10.1007/s12083-025-02030-8,,1,D,S1,17,1,COM,N,yes
+R0796,database,A Cross-Chain Mechanism Based on Hierarchically Managed Notary Group,2025,International Journal of Advanced Computer Science and Applications,10.14569/ijacsa.2025.0160450,,2,D,S1,1,1,COM,E,yes
+R0798,database,DeCoTa: a lightweight decentralized cross-chain transfer scheme based on hash-locking,2025,Scientific Reports,10.1038/s41598-025-91509-8,,1,D,S1,5,5,"SWAP,COM",E,yes
+R0820,database,Anti-quantum cross-chain identity authentication approach using dynamic group signature,2025,Frontiers of Information Technology & Electronic Engineering,10.1631/fitee.2400443,,1,D,S1,47,7,"AUTH,PRIV",F,yes
+R0845,database,FastDCV: An efficient cross-chain data consistency verification scheme supporting batch processing,2025,Peer-to-Peer Networking and Applications,10.1007/s12083-025-02096-4,,1,D,S1,1,1,INTEG,N,yes
+R0848,database,Adapting the Secure Asset Transfer Protocol for Secure Cross-Network Asset Exchange,2025,International Conference on Blockchain,10.1109/icbc64466.2025.11185062,,1,D,S1,5,5,ATOM,E,yes
+R0866,database,ZKCross: An Efficient and Reliable Cross-Chain Authentication Scheme Based on Lightweight Attribute-Based Zero-Knowledge Proof,2025,Lecture notes in computer science,10.1007/978-981-96-1551-3_6,,1,D,S1,47,7,"AUTH,ZK",N,yes
+R0916,database,A Privacy-Preserving and Highly Fault-Tolerant Cross-Chain Atomic Swap Scheme,2025,"International Conference on Trust, Security and Privacy in Computing and Communications",10.1109/trustcom66490.2025.00204,,1,D,S1,57,7,"SWAP,PRIV",E,yes
+R0933,database,Auditable Ledger Snapshot for Non-Repudiable Cross-Blockchain Communication,2025,IEEE Transactions on Services Computing,10.1109/tsc.2025.3630671,2511.16560,0,D,S1,1,-,INTEG,E,yes
+R0949,database,A Generic Framework for Cross-Chain Atomic Swaps of Digital Tokens,2025,IEEE International Conference on Distributed Computing Systems,10.1109/icdcs63083.2025.00011,,0,D,S1,57,5,SWAP,F,yes
+R0980,database,Race-Resistant Atomic Swaps Across Heterogeneous Blockchains,2025,IEEE International Conference on Decentralized Applications and Infrastructures,10.1109/dapps65174.2025.00013,,0,D,S1,5,5,ATOM,E,yes
+R1027,database,PPSCCC: Privacy-Preserving Scalable Cross-Chain Communication Among Multiple Blockchains Based on Parent-Child Blockchain,2025,Australasian Conference on Information Security and Privacy,10.1007/978-981-96-9095-4_19,,1,D,S1,7,7,PRIV,N,yes
+R1041,database,"VeCroToken: An Efficient, Verifiable, and Privacy-Preserving Cross-Chain Model for Consortium Blockchains Based on zk-SNARKs",2025,IEEE Transactions on Network and Service Management,10.1109/tnsm.2025.3636014,,0,D,S1,7,7,"PRIV,ZK",FE,yes
+R1094,database,CrossGuardian: A security domain isolation model for cross-chain gateway,2025,Journal of Communications and Networks,10.23919/jcn.2025.000037,,0,D,S1,17,4,ARCH,E,yes
+R1115,database,Enhanced Notary Cross-Chain Mechanism with Identity Privacy and Traceability: Achieving notary privacy and distributed accountability in cross-chain systems,2025,"Proceedings of the 2025 2nd International Conference on Digital Economy, Blockchain and Artificial Intelligence",10.1145/3762249.3762252,,0,D,S1,17,17,"COM,PRIV",E,yes
+R1126,database,Optimizing Notary Election for Cross-Chain Blockchain Transactions Using SVM,2025,"Proceedings of the 2025 2nd International Conference on Digital Economy, Blockchain and Artificial Intelligence",10.1145/3762249.3762251,,0,D,S1,1,1,"COM,TRUST",E,yes
+R1127,database,Lotus: A Hybrid Cross-Chain Framework for Privacy-Preserving Digital Identity,2025,International Symposium on Communications and Information Technologies,10.1109/iscit67082.2025.11231625,,0,D,S1,47,7,"ZK,AUTH",E,yes
+R1158,database,Trustworthy Federated Identity Management (TFIM) for secure DApp interoperability in cross-chain environment,2025,,10.1201/9781003568988-16,,0,D,S1,4,1,AUTH,E,no
+R1172,database,Analysis and Design of an ROS Attack-Resistant Adaptor Signature Scheme for Multiparty Cyclic Cross-Chain,2025,Communications in computer and information science,10.1007/978-981-95-2566-9_31,,0,D,S1,5,5,SWAP,F,yes
+R1200,database,VeilAudit: Breaking the Deadlock Between Privacy and Accountability Across Blockchains,2025,arXiv.org,10.48550/arxiv.2510.12153,2510.12153,1,D,S1,7,7,PRIV,F,no
+R1201,database,NCCP: A Notary Group-Based Cross-Chain Channel Protocol for Secure and Scalable Interoperable Payments,2025,International Conference on Parallel and Distributed Systems,10.1109/icpads67057.2025.11322951,,0,D,S1,15,1,"PCN,COM",E,yes
+R1241,database,Trustless Bridges via Random Sampling Light Clients,2025,IACR Cryptology ePrint Archive,10.4230/lipics.aft.2025.31,,3,D,S1,1,1,LC,F,no
+R1245,database,MSTLC: A Cross-Chain Protocol Based on Multi-Signature Timelock,2025,IEEE International Conference on Signal and Image Processing,10.1109/icsip65915.2025.11171479,,0,D,S1,5,5,SWAP,E,yes
+R1249,database,TruAtom: Facilitating Atomic Cross-Chain Invocations for DApps via Trusted Smart Communities and Lock-Supported Atomic-Oracle Chain,2025,Blockchain Research and Applications,10.1016/j.bcra.2025.100427,,0,D,S1,5,5,ATOM,E,yes
+R1262,database,A Cross-Chain Transmission Protocol Based Oracle,2025,Communications in computer and information science,10.1007/978-981-96-6232-6_5,,0,D,S1,1,1,COM,N,yes
+R1363,database,A Cross-Chain Identity Anonymity Protection Scheme for Regulatory Scenarios,2025,Communications in computer and information science,10.1007/978-981-95-4142-3_32,,0,D,S1,7,7,PRIV,N,yes
+R1380,database,NebulaX: Scalable Cross-Chain Interoperability via zk-SNARK Aggregation and Dynamic Incentives,2025,International Conference on Cyber Security and Cloud Computing,10.1109/cscloud66326.2025.00056,,0,D,S1,16,1,"ZK,ECON",E,yes
+R1389,database,An Efficient and Scalable Cross-Chain Identity Authentication Method Based on Improved DID,2025,"2025 IEEE 7th International Conference on Communications, Information System and Computer Engineering (CISCE)",10.1109/cisce65916.2025.11065109,,0,D,S1,4,1,AUTH,E,yes
+R1411,database,Recipient-Agnostic Hash Locks for Cross-Chain Auctions with Bitcoin Bidding,2025,"International Conference on Trust, Security and Privacy in Computing and Communications",10.1109/trustcom66490.2025.00229,,0,D,S1,5,5,SWAP,F,yes
+R1426,database,Cross-Chain Identity Authentication Mechanism Based on VRF Dynamic Selection and BLS Aggregate Signatures,2025,Proceedings of the 2025 2nd International Conference on Computer and Multimedia Technology,10.1145/3757749.3757847,,0,D,S1,14,1,"COM,AUTH",E,yes
+R1429,database,Cross-Chain Identity Authentication Protocol based on Group Signature and Zero-Knowledge Proof,2025,International Conference on Computer Supported Cooperative Work in Design,10.1109/cscwd64889.2025.11033396,,0,D,S1,47,7,"AUTH,PRIV",E,yes
+R1473,database,A Proof of Success and Reward Distribution Protocol for Multi-bridge Architecture in Cross-chain Communication,2025,WETSEB@ICSE,10.1145/3786157.3788567,2512.10667,0,D,S1,15,1,"COM,ECON",E,yes
+R1675,database,$\mathsf{CRATE}$: Cross-Rollup Atomic Transaction Execution,2025,arXiv (Cornell University),10.48550/arxiv.2502.04659,2502.04659,0,D,S1,5,5,ATOM,FE,no
+R1704,database,X-Transfer: Enabling and Optimizing Cross-PCN Transactions,2025,IACR Cryptology ePrint Archive,10.1007/978-3-032-07024-1_5,,5,D,S1,5,5,PCN,FE,no
+R1828,database,InterAcct: Access Control for Permissioned Blockchain Interoperation,2025,International Conference on Blockchain,10.1109/icbc64466.2025.11114648,,3,D,S1,4,1,AUTH,E,yes
+R1851,database,4-Swap: Achieving Grief-Free and Bribery-Safe Atomic Swaps Using Four Transactions,2025,Conference on Advances in Financial Technologies,10.48550/arxiv.2508.04641,2508.04641,2,D,S1,56,56,"SWAP,ECON",F,yes
+R1854,database,Formal Verification of a Fail-Safe Cross-Chain Bridge,2025,FMBC,10.4230/oasics.fmbc.2025.8,,4,D,S1,135,3,FM,F,yes
+R1858,database,BrokerAS: Towards Fault-tolerant Atomic Cross-chain Swaps,2025,IEEE Conference on Computer Communications,10.1109/infocom55648.2025.11044581,,9,D,S1,5,5,SWAP,E,yes
+R1892,database,Pace: Privacy-Preserving and Atomic Cross-chain Swaps for Cryptocurrency Exchanges,2025,ACM Asia Conference on Computer and Communications Security,10.1145/3708821.3736211,,2,D,S1,57,57,"SWAP,PRIV",FE,yes
+R1941,database,A Security Framework for General Blockchain Layer 2 Protocols,2025,arXiv.org,10.48550/arxiv.2504.14965,2504.14965,2,D,S1,15,-,FM,F,no
+R1971,database,Decentralized Exchange that Mitigate a Bribery Attack,2025,arXiv,,2510.20645,0,D,S1,56,56,"SWAP,ECON",FE,no
+R0372,database,Securing hashed timelock cross-chain protocol with trusted middleman in blockchain networks,2026,Computer Standards & Interfaces,10.1016/j.csi.2026.104129,,1,D,S1,5,5,SWAP,N,yes
+R0468,database,Proof of Repute Consensus (PoRC): A decentralized approach to blockchain interoperability,2026,Peer-to-Peer Networking and Applications,10.1007/s12083-026-02206-w,,2,D,S1,1,15,"COM,TRUST",E,yes
+R0800,database,LTRAS: A Linkable Threshold Ring Adaptor Signature Scheme for Efficient and Private Cross-Chain Transactions,2026,Journal of systems architecture,10.1016/j.sysarc.2026.103810,2602.05431,1,D,S1,7,7,"PCN,PRIV",F,yes
+R0858,database,CATs: Secure Blockchain Interoperability with Cross-chain Atomic Transactions,2026,arXiv.org,10.48550/arxiv.2607.05387,2607.05387,0,D,S1,5,5,ATOM,F,no
+R0917,database,zk-HTLC: A formally verified defense against linkability attacks in trust-minimized cross-chain networks,2026,Computer Networks,10.1016/j.comnet.2026.112780,,0,D,S1,7,7,"SWAP,PRIV",F,yes
+R0982,database,DCS-HTLC: An Environment-Aware Adaptive Protocol for Cross-Chain Atomic Swaps,2026,Lecture notes in computer science,10.1007/978-981-92-5693-8_3,,0,D,S1,5,5,SWAP,N,yes
+R1008,database,Zk-InterChain: privacy-preserving protocol for cross-chain interactions between consortium and public blockchains,2026,The Journal of Supercomputing,10.21203/rs.3.rs-7283199/v1,,0,D,S1,7,7,PRIV,N,yes
+R1009,database,VeriMesh: a trust-adaptive multi-path relay framework for secure and resilient cross-chain interoperability,2026,Scientific Reports,10.1038/s41598-026-66025-y,,0,D,S1,15,14,"ZK,TRUST",E,yes
+R1016,database,"LockMeld: A Privacy-Preserving Cross-Chain Protocol for Confidential, Account-Based Blockchains",2026,Australasian Conference on Information Security and Privacy,10.1007/978-981-92-3018-1_16,,0,D,S1,7,7,PRIV,N,yes
+R1038,database,Atomic Swaps with Relaxed Assumptions,2026,IACR Communications in Cryptology,10.62056/abe0ivol7,,0,D,S1,5,5,SWAP,F,yes
+R1077,database,Probabilistic Atomic Swaps for Bitcoin and Friends,2026,IACR Cryptology ePrint Archive,10.48550/arxiv.2605.04975,2605.04975,0,D,S1,5,5,SWAP,F,no
+R1080,database,CLCBA: A Secure and Efficient Identity Authentication Scheme for Cross-Chain Interoperability,2026,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",10.1007/978-3-032-21171-2_23,,0,D,S1,4,1,AUTH,N,yes
+R1132,database,DETERMINING THE NUMBER OF CONFIRMATION BLOCKS IN A TWO-LEVEL BLOCKCHAIN WITH PROOF-OF-PROOF CONSENSUS PROTOCOL FOR DIFFERENT CONSENSUS TYPES IN MAINCHAIN/SIDECHAIN TO PREVENT DOUBLE-SPEND ATTACK II. PoW IN MAINCHAIN/PoS IN SIDECHAIN,2026,Kibernetyka ta Systemnyi Analiz,10.34229/kca2522-9664.26.2.9,,0,D,S1,2,5,FM,F,yes
+R1133,database,zkHARPS: A Decentralized Method for Cross-Chain Identity Aggregation and Privacy Proof,2026,Lecture notes in computer science,10.1007/978-981-95-5719-6_39,,0,D,S1,47,7,"AUTH,ZK",N,yes
+R1139,database,A Privacy-Preserving Cross-Chain Access Control Scheme Based on Threshold Fully Homomorphic Encryption,2026,Lecture notes in computer science,10.1007/978-981-95-7027-0_9,,0,D,S1,47,7,"AUTH,PRIV",N,yes
+R1149,database,CR2P:Collaborative regulatory privacy protection scheme in cross-chain-based anonymous payments,2026,Computer Networks,10.1016/j.comnet.2026.112450,,0,D,S1,7,7,PRIV,N,yes
+R1162,database,Cross-chain identity privacy protection scheme based on oblivious transfer protocol and key agreement,2026,Information Sciences,10.1016/j.ins.2026.123332,,0,D,S1,7,7,"AUTH,PRIV",N,yes
+R1175,database,Secure cross-chain value and data transfer: a novel approach based on hash time lock and relay chain technology,2026,The Journal of Supercomputing,10.1007/s11227-026-08681-5,,0,D,S1,5,5,SWAP,N,yes
+R1219,database,Pistis: Enabling Secure Interoperability Across Unobservable Permissioned Blockchains,2026,Lecture notes in computer science,10.1007/978-981-95-8408-6_14,,0,D,S1,1,1,ARCH,N,yes
+R1234,database,EquiLink Bridge: A Semi-Custodial Approach to Cross-Chain Transactions via TEE,2026,IEEE Transactions on Services Computing,10.1109/tsc.2026.3691985,,0,D,S1,1,1,TEE,E,yes
+R1235,database,Rebel: A Cross-Chain Data Audit Scheme Based on Reputation Model to Defend Against Malicious Nodes,2026,Lecture notes in computer science,10.1007/978-981-95-8417-8_1,,0,D,S1,1,1,"INTEG,TRUST",N,yes
+R1251,database,CP-ABZP: A CP-ABE Cross-Chain Privacy Protection Scheme Combined with Zero-Knowledge Proof,2026,Lecture notes in computer science,10.1007/978-981-95-3551-4_6,,0,D,S1,7,7,PRIV,N,yes
+R1259,database,A Flexible Cross-Chain Payment Channel Network,2026,IEEE Transactions on Networking,10.1109/ton.2026.3670931,,1,D,S1,5,5,PCN,E,yes
+R1286,database,SLAC-IB: a secure and scalable service-level access control framework for interoperable blockchains,2026,Cluster Computing,10.1007/s10586-026-06408-y,,0,D,S1,4,1,AUTH,N,yes
+R1331,database,Ontology-Driven Authorization Semantics for Cross-Chain Bridges,2026,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",10.1007/978-3-032-32764-2_15,,0,D,S1,4,3,AUTH,N,yes
+R1338,database,Decentralized threshold signature scheme for cross-chain notary identity authentication,2026,Journal of Information Security and Applications,10.1016/j.jisa.2026.104419,,0,D,S1,14,1,"COM,AUTH",N,yes
+R1343,database,Chuchu: A Hashlock Group Protocol for Cross-Chain Swaps,2026,IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2026.3670858,,2,D,S1,5,5,SWAP,E,yes
+R1346,database,PoVIChain: Lightweight and verifiable cross-chain interoperability for heterogeneous edge networks,2026,Internet of Things,10.1016/j.iot.2026.101917,,0,D,S1,1,1,LC,N,yes
+R1352,database,Towards Policy-Enabled Multi-Hop Routing for Cross-Chain Message Delivery,2026,arXiv.org,10.48550/arxiv.2604.04890,2604.04890,2,D,S1,15,4,ARCH,E,no
+R1364,database,Scriptless cross-chain deferred asset transfer for AIoT,2026,Journal on Information Security,10.1186/s13635-026-00245-7,,0,D,S1,5,5,SWAP,F,yes
+R1428,database,"ShiftHub: Enabling Atomic, Unlinkable, and Practical m ~1 Cross-Chain Transfer",2026,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2026.3670535,,0,D,S1,57,57,"SWAP,PRIV",F,yes
+R1436,database,zkPACT: A zero-knowledge private cross-chain token transfer framework utilizing decentralized oracle networks,2026,Information Systems,10.15480/882.17346,,0,D,S1,7,7,"PRIV,ZK",E,yes
+R1500,database,A Cross-Chain Key Agreement and Regulatory Governance Framework Based on Peninsula Group Permutation Rational Functions,2026,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",10.1007/978-3-032-21171-2_24,,0,D,S1,7,7,"AUTH,PRIV",N,yes
+R1800,database,SaFeBridge: Consensus-Agnostic Asset Transfer with Slow-Approval Fast-Exit Principles,2026,"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",10.1007/978-3-032-23447-6_7,,0,D,S1,1,1,ARCH,N,yes
+R1831,database,GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps,2026,IEEE International Conference on Distributed Computing Systems,10.1109/2575-8411.2026.00119,,0,D,S1,56,5,SWAP,F,yes
+R1835,database,Recursive Aggregation for Scalable Cross-Chain Block Header Verification,2026,2026 10th International Conference on Electronic Information Technology and Computer Engineering (EITCE),10.1109/eitce70137.2026.11634537,,0,D,S1,1,1,ZK,E,yes
+R1838,database,PPBRidge: A Zero-Knowledge Privacy-Preserving Cross-Chain Bridge for EVM Networks,2026,IEEE International Conference on Decentralized Applications and Infrastructures,10.1109/dapps69803.2026.00026,,1,D,S1,7,7,"PRIV,ZK",E,yes
+R1844,database,Bhra-VITARIT: Weighted Atomic Swaps for Threshold Services on Scriptless Blockchains,2026,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2026.3714113,,0,D,S1,5,5,SWAP,F,yes
+R1869,database,FluxLayer: A Secure Three-Layer Architecture for Unified Cross-Chain Liquidity,2026,International Conference on Blockchain,10.1109/icbc67748.2026.11575529,,0,D,S1,13,1,"COM,TEE",F,yes
+R1901,database,XPCH: A Cross-Chain Payment Protocol via Connecting the Payment Channel Hubs,2026,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2026.3723196,,0,D,S1,57,7,"PCN,PRIV",F,yes
+R1943,database,Scriptless Atomic Swap With Batch Processing,2026,IEEE Transactions on Information Forensics and Security,10.1109/tifs.2026.3707794,,0,D,S1,5,5,SWAP,F,yes
+R1948,database,XIR: A Framework for Interoperability across Cross-Chain Protocols Based on a Verifiable Intermediate Representation,2026,arXiv,,2609.20010,0,D,S1,1,-,ARCH,E,no
+R1963,database,Catching the Fly: Practical Challenges in Making Blockchain FlyClient Real,2026,arXiv,,2604.26736,0,D,S1,1,1,LC,E,no
+R0898,database,Test Case Generation for Cross-Blockchain Smart Contract,2023,Asia-Pacific Software Engineering Conference,10.1109/apsec60848.2023.00097,,1,D,S2,3,3,TEST,E,yes
+R0051,database,SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis,2024,Proceedings of the ACM on software engineering.,10.1145/3643738,2406.15999,45,D,S2,34,3,SA,R,yes
+R0111,database,ChainSniper: A Machine Learning Approach for Auditing Cross-Chain Smart Contracts,2024,Proceedings of the 2024 9th International Conference on Intelligent Information Technology,10.1145/3654522.3654577,,13,D,S2,34,3,ML,E,yes
+R0324,database,XGuard: Detecting Inconsistency Behaviors of Crosschain Bridges,2024,SIGSOFT FSE Companion,10.1145/3663529.3663809,,11,D,S2,13,23,SA,R,yes
+R0569,database,BridgeGuard: Checking External Interaction Vulnerabilities in Cross-Chain Bridge Router Contracts Based on Symbolic Dataflow Analysis,2025,IEEE Transactions on Dependable and Secure Computing,10.1109/tdsc.2025.3576114,,8,D,S2,34,3,SA,R,yes
+R1420,database,Phantom Events: Demystifying the Issues of Log Forgery in Blockchain,2025,arXiv.org,10.48550/arxiv.2502.13513,2502.13513,5,D,S2,1,24,SA,R,no
+R1737,database,Liveness of Polygon Migration Contract using PAT Model Checker,2025,International Conference on Frontiers of Information Technology,10.1109/fit67061.2025.11333723,,0,D,S2,45,3,FV,F,yes
+O002,other,EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems,2026,arXiv,,2609.07865,,D,S2,1,24,SA,R,no
+R0945,database,CrossGuard: a multi-modal few-shot learning framework for detecting cross-chain smart contract vulnerabilities,2026,Cluster Computing,10.1007/s10586-026-06298-0,,0,D,S2,34,3,ML,E,yes
+R0959,database,Enhancing Security of Cross-Chain Bridge Smart Contracts Using Multi-Model Deep Learning Techniques for Vulnerability Detection,2026,International Conference on Computing Communication Control and automation,10.1109/iccubea69821.2026.11702036,,0,D,S2,34,3,ML,E,yes
+R0998,database,GoAT-X: A Graph of Auditing Thoughts for Securing Token Transactions in Cross-Chain Contracts,2026,arXiv.org,10.48550/arxiv.2604.24341,2604.24341,0,D,S2,34,3,"LLM,SA",E,no
+R1000,database,Fuzzing Cross-Chain Vulnerabilities with BridgeFuzz,2026,European Workshop on System Security,10.1145/3803525.3804980,,1,D,S2,1345,34,FUZZ,E,yes
+R1091,database,Evolutionary soft computing for interpretable exploit generation in cross-chain bridges,2026,Applied Soft Computing,10.1016/j.asoc.2026.116561,,0,D,S2,34,23,"TEST,ML",E,yes
+R1404,database,SmartMemory: Detecting On-chain-off-chain Communication Inconsistency for Smart Contract via Memory-based Agent,2026,arXiv (Cornell University),10.48550/arxiv.2609.34983,2609.34983,0,D,S2,13,3,LLM,E,no
+R1488,database,IntentFuzz: A Protocol-Aware Fuzzer for Automated Invariant Violation Detection in Intent-Based Cross-Chain Bridges,2026,arXiv (Cornell University),10.48550/arxiv.2609.13004,2609.13004,0,D,S2,35,36,FUZZ,R,no
+R1964,database,COBALT-TLA: A Neuro-Symbolic Verification Loop for Cross-Chain Bridge Vulnerability Discovery,2026,arXiv,,2604.12172,0,D,S2,13,23,"FV,LLM",E,no
+R0046,database,Xscope: Hunting for Cross-Chain Bridge Attacks,2022,International Conference on Automated Software Engineering,10.1145/3551349.3559520,2208.07119,59,D,S3,134,23,RULE,R,yes
+R0272,database,Distributed Runtime Verification of Metric Temporal Properties for Cross-Chain Protocols,2022,2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS),10.1109/icdcs54860.2022.00012,2204.09796,21,D,S3,5,5,RULE,E,yes
+R0786,database,Towards a Dynamic Reputation Management Scheme for Cross-Chain Transactions,2022,Communications in computer and information science,10.1007/978-981-19-7769-5_10,,1,D,S3,1,1,TRUST,N,yes
+R0210,database,HighGuard: Cross-Chain Business Logic Monitoring of Smart Contracts,2023,International Conference on Automated Software Engineering,10.1145/3691620.3695356,2305.08254,22,D,S3,34,3,RULE,R,yes
+R0249,database,A Trusted Reputation Management Scheme for Cross-Chain Transactions,2023,Sensors,10.3390/s23136033,,8,D,S3,1,1,TRUST,E,yes
+R0130,database,Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges,2024,The Web Conference,10.1145/3696410.3714604,2410.14493,34,D,S3,13,23,GML,R,yes
+R0265,database,XChainWatcher: Identifying Anomalies in Cross-Chain Bridges,2024,International Middleware Conference,10.1145/3721462.3770781,2410.02029,14,D,S3,13,123,RULE,R,yes
+R0330,database,A Blockchain Cross-Chain Transaction Method Based on Decentralized Dynamic Reputation Value Assessment,2024,IEEE Transactions on Network and Service Management,10.1109/tnsm.2024.3433414,,9,D,S3,1,1,TRUST,E,yes
+R0473,database,Intelligent blockchain based attack detection framework for cross-chain transaction,2024,Multimedia Tools and Applications,10.1007/s11042-024-18344-3,,2,D,S3,13,-,GML,N,yes
+R0632,database,Cross-chain Abnormal Transaction Detection via Graph-based Multi-model Fusion,2024,International Symposium on Blockchain and Secure Critical Infrastructure,10.1145/3659463.3660008,,6,D,S3,1,-,GML,E,yes
+R0651,database,Detecting Fake Deposit Attacks on Cross-chain Bridges from a Network Perspective,2024,International Symposium on Circuits and Systems,10.1109/iscas58744.2024.10558359,,2,D,S3,1,2,GML,R,yes
+R0745,database,Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges,2024,arXiv.org,10.48550/arxiv.2410.01107,2410.01107,1,D,S3,3,123,ACC,R,no
+R0799,database,XSema: A Novel Framework for Semantic Extraction of Cross-chain Transactions,2024,IEEE International Conference on High Performance Computing and Communications,10.1109/hpcc64274.2024.00094,2412.18129,4,D,S3,-,-,TRACE,E,yes
+R1145,database,Enhancing the security of cross-chain by reputation-incentive mechanism with TrustRank algorithm,2024,Other Conferences,10.1117/12.3033261,,0,D,S3,1,1,TRUST,E,yes
+O001,other,Connector: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-Chain Transaction Association,2025,IEEE Trans. Inf. Forensics Secur.,10.1109/tifs.2025.3588249,,,D,S3,-,6,TRACE,R,yes
+R0307,database,Track and Trace: Automatically Uncovering Cross-Chain Transactions in the Multi-Blockchain Ecosystems,2025,IEEE Transactions on Services Computing,10.1109/tsc.2025.3618729,2504.01822,14,D,S3,-,6,TRACE,R,yes
+R0380,database,Tracing Cross-Chain Transactions Between EVM-Based Blockchains: An Analysis of Ethereum-Polygon Bridges,2025,Ledger,10.5195/ledger.2025.433,2504.15449,15,D,S3,-,67,TRACE,R,yes
+R0389,database,Looking for Anomalies in Cross-Chain Bridges,2025,2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S),10.1109/dsn-s65789.2025.00025,,2,D,S3,13,-,RULE,R,yes
+R0551,database,Cross-Chain Transaction Auditing with Truth Discovery,2025,Lecture notes in computer science,10.1007/978-981-96-1551-3_10,,1,D,S3,1,-,RULE,N,yes
+R0677,database,ConneX: Automatically Resolving Transaction Opacity of Cross-Chain Bridges for Security Analysis,2025,arXiv.org,10.48550/arxiv.2511.01393,2511.01393,4,D,S3,-,-,TRACE,R,no
+R0682,database,BridgeShield: Enhancing Security for Cross-chain Bridge Applications via Heterogeneous Graph Mining,2025,arXiv.org,10.48550/arxiv.2508.20517,2508.20517,2,D,S3,13,23,GML,R,no
+R0735,database,Wormhole Cross-Chain Bridge Transactions Flow: An Exploratory Study,2025,International Conference on Blockchain,10.1109/icbc64466.2025.11185063,,3,D,S3,-,6,TRACE,R,yes
+R0840,database,Notary Evaluation Algorithm Adaptable to Node State Changes for Cross-Chain Notaries,2025,Journal of Data Science and Intelligent Systems,10.47852/bonviewjdsis52024592,,1,D,S3,1,1,TRUST,E,yes
+R0862,database,Visualization of Cross-Chain Transactions for Secure Blockchain Interoperability (Position Paper),2025,2025 20th European Dependable Computing Conference Companion Proceedings (EDCC-C),10.1109/edcc-c66476.2025.00047,,0,D,S3,-,-,DATA,N,yes
+R1045,database,VeriBridge: Real-Time Cross-Chain Bridge Attack Detection through Static-Informed Graph Anomaly Learning,2025,2025 2nd International Conference On Cryptography And Information Security (VCRIS),10.1109/vcris68011.2025.11250562,,1,D,S3,13,23,"GML,SA",R,yes
+R1062,database,CIFGViewer: Detecting Cross-chain Bridge Attacks via Cross-chain Information Flow Graph,2025,Communications in computer and information science,10.1007/978-981-95-4142-3_44,,0,D,S3,13,23,GML,N,yes
+R1195,database,BADS: Real-Time Anomaly Detection and Reporting for Cross-Chain Bridges Using Large Language Models,2025,2025 International Conference on Artificial Intelligence Science and Applications in Industry and Society (CAISAIS),10.1109/caisais68078.2025.11440752,,1,D,S3,13,123,"RULE,LLM",E,yes
+R1323,database,Automatic Cross-chain Protocol Pausing with Real-time Conformance Checking,2025,Conference on Blockchain Research & Applications for Innovative Networks and Services,10.1109/brains67003.2025.11302954,,0,D,S3,13,-,"RESP,RULE",E,yes
+R1822,database,XChainDataGen: A Cross-Chain Dataset Generation Framework,2025,arXiv.org,10.48550/arxiv.2503.13637,2503.13637,18,D,S3,-,-,DATA,R,no
+O003,other,CrossTrust-IoT: An Adaptive Reinforcement Learning Framework for Cross-Chain Trust in Resource-Constrained IoT Networks,2026,IEEE Internet Things J.,10.1109/jiot.2026.3671650,,,D,S3,1,1,TRUST,E,yes
+R1007,database,Layer 0 and Layer 1 Integrated Smart Contract Kill Switch for Cross-Chain Security in Decentralized Systems,2026,IEEE Internet of Things Journal,10.1109/jiot.2026.3686857,,0,D,S3,-,-,RESP,E,yes
+R1122,database,Anomaly Detection in Cross-Chain Bridges: A Data Analytics Study,2026,Communications in computer and information science,10.1007/978-981-95-9230-2_3,,0,D,S3,13,-,GML,N,yes
+R1123,database,$2B Lessons: Brigade as a Defense Against Real-World DeFi Bridge Exploits,2026,Lecture notes in computer science,10.1007/978-3-032-32575-4_16,,0,D,S3,13,123,RULE,R,yes
+R1150,database,A Dynamic Trust Evaluation and Risk Control Mechanism for Heterogeneous Cross-Chain Nodes,2026,Computers,10.3390/computers15060390,,0,D,S3,16,1,"TRUST,ECON",E,yes
+R1170,database,ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment,2026,arXiv.org,10.48550/arxiv.2601.12434,2601.12434,0,D,S3,36,-,RESP,E,no
+R1337,database,Cross-chain Anomalous Transaction Detection Based on BERT Model,2026,DOAJ (DOAJ: Directory of Open Access Journals),10.19678/j.issn.1000-3428.0070479,,0,D,S3,13,23,GML,E,yes
+R1353,database,Cross-Chain Laundering Tracer: Activity Tracking Methodology for Cryptocurrency Laundering,2026,Communications in computer and information science,10.1007/978-981-92-2973-4_15,,0,D,S3,-,6,TRACE,N,yes
+R1846,database,Detecting Sybil Attacks in Cross-Chain Transactions: A Multi-Stage Framework,2026,International Conference on Computer Supported Cooperative Work in Design,10.1109/cscwd68734.2026.11582050,,0,D,S3,6,6,GML,R,yes
+R1902,database,A Framework for Monitoring and Auditing the Activity of Cross-Chain Mechanisms,2026,ACM Symposium on Applied Computing,10.1145/3748522.3779917,,0,D,S3,-,-,RULE,E,yes
+R1949,database,Bridging the Opacity: Evidence-Backed Cross-Chain Transaction Correspondence Reconstruction Across Heterogeneous Blockchains,2026,arXiv,,2609.18158,0,D,S3,-,6,TRACE,R,no
+R1951,database,Heterogeneous Cross-Chain Transaction Tracing for Solana Bridges via Candidate-Set Selective Decision,2026,arXiv,,2609.11413,0,D,S3,-,6,TRACE,R,no
+R0350,database,Short Paper: An Empirical Analysis of Monero Cross-chain Traceability,2019,Lecture notes in computer science,10.1007/978-3-030-32101-7_10,,16,M,-,7,7,MEAS,R,yes
+R0726,database,Cross Chain Bribery Contracts: Majority vs Mighty Minority,2019,Practical Applications of Agents and Multi-Agent Systems,10.1007/978-3-030-24299-2_11,2306.07984,3,M,-,6,6,ATK,F,yes
+R0243,database,"Pay to Win: Cheap, Cross-Chain Bribing Attacks on PoW Cryptocurrencies",2021,Lecture notes in computer science,10.1007/978-3-662-63958-0_39,,11,M,-,6,6,ATK,F,yes
+R0095,database,Attack and protection schemes on fabric isomorphic crosschain systems,2022,International Journal of Distributed Sensor Networks,10.1177/15501477211059945,,18,M,-,25,345,ATK,E,yes
+R0610,database,Cross-chain Jamming Attack with Light Client Verification Clash in IBC Protocol,2022,2022 IEEE 21st International Conference on Ubiquitous Computing and Communications (IUCC/CIT/DSCI/SmartCNS),10.1109/iucc-cit-dsci-smartcns57392.2022.00034,,2,M,-,5,4,ATK,E,yes
+R0224,database,Benchmarking Blockchain Bridge Aggregators,2024,International Congress on Blockchain and Applications,10.1109/blockchain62396.2024.00015,,7,M,-,-,-,MEAS,E,yes
+R0478,database,Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks,2024,Proceedings of the ACM on Measurement and Analysis of Computing Systems,10.1145/3700424,,17,M,-,13,-,MEAS,R,yes
+R1137,database,Seamlessly Transferring Assets through Layer-0 Bridges: An Empirical Analysis of Stargate Bridge's Architecture and Dynamics,2024,The Web Conference,10.1145/3589335.3651964,,12,M,-,3,-,MEAS,R,yes
+R0195,database,Double-spending attacks in cross-blockchain ecosystems,2025,Blockchain Research and Applications,10.1016/j.bcra.2025.100378,,5,M,-,2,5,ATK,N,yes
+R0445,database,Who constitute the VASPs in DeFi? A case study on money laundering via cross-chain bridge from the 2022 harmony hack,2025,Journal of Economic Criminology,10.1016/j.jeconc.2025.100131,,3,M,-,6,6,INC,R,yes
+R0619,database,Cross-Chain Arbitrage: The Next Frontier of MEV in Decentralized Finance,2025,Proceedings of the ACM on Measurement and Analysis of Computing Systems,10.1145/3771566,2501.17335,4,M,-,6,6,MEAS,R,yes
+R0942,database,The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi,2025,arXiv.org,10.48550/arxiv.2511.15245,2511.15245,1,M,-,6,6,ATK,R,no
+R1859,database,"An Empirical Study on Cross-chain Transactions: Costs, Inconsistencies, and Activities",2025,ACM Asia Conference on Computer and Communications Security,10.1145/3708821.3733878,,12,M,-,35,56,MEAS,R,yes
+R0697,database,The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences,2026,Proceedings of the ACM on Measurement and Analysis of Computing Systems,10.1145/3805650,2604.03083,8,M,-,6,6,MEAS,R,yes
+R0974,database,Exploiting Liquidity Exhaustion Attacks in Intent-Based Cross-Chain Bridges,2026,arXiv.org,10.48550/arxiv.2602.17805,2602.17805,3,M,-,6,6,ATK,R,no
+R1067,database,Contagion in Decentralized Infrastructure: How Cross-Chain Bridge Exploits Propagate Failure Across the Blockchain Ecosystem,2026,Journal of the Association for Information Systems,,,0,M,-,6,6,MEAS,R,yes
+R1141,database,Mind the Gap: Liquidity Poisoning Attacks on Multihop Cross-Chain Arbitrage,2026,,10.1109/icbc67748.2026.11575511,,0,M,-,6,6,ATK,R,no
+R1298,database,"Stalled Cross-chain Transactions: Scale, Impacts, and Causes",2026,Proceedings of the 2026 ACM Internet Measurement Conference,10.1145/3777912.3839782,,0,M,-,5,5,MEAS,R,yes
+R1311,database,Definition and Analysis of Defects in Cross-Chain Bridge Decentralized Applications,2026,Communications in computer and information science,10.1007/978-981-95-3477-7_13,,0,M,-,34,3,MEAS,N,yes
+R1443,database,Signals and Spoils: Speculative Oracle Extractable Value in the Era of Cross-Chain Interoperability,2026,arXiv.org,10.48550/arxiv.2606.03434,2606.03434,1,M,-,6,6,MEAS,R,no
+R1543,database,The Double Spending Dilemma: From Traditional Cash Systems to Interoperable Blockchain Systems,2026,ITASEC/SERICS,,,0,M,-,2,5,ATK,N,yes
+R1938,database,Empirical On-Chain Analysis of Delays in Packet Forward Middleware-Based Multi-Hop CrossChain Transfers,2026,International Conference on Blockchain,10.1109/icbc67748.2026.11575553,,0,M,-,5,5,MEAS,R,yes
+R1950,database,When AI Agents Meet MEV: Cross-Chain Arbitrage in the Agentic Economy,2026,arXiv,,2609.17897,0,M,-,6,6,MEAS,R,no
+R1966,database,Reuse of Public Keys Across UTXO and Account-Based Cryptocurrencies,2026,arXiv,,2601.19500,0,M,-,7,7,MEAS,R,no
+R0008,database,SoK: Communication Across Distributed Ledgers,2019,IACR Cryptology ePrint Archive,10.1007/978-3-662-64331-0_1,,233,S,-,-,-,SURV,F,no
+R2007,database,Wrapping trust for interoperability. A study of wrapped tokens,2021,arXiv (Information 2022),10.3390/info13010006,2109.06847,0,S,-,-,-,SURV,N,no
+R0010,database,Security and Privacy Challenges in Blockchain Interoperability - A Multivocal Literature Review,2022,International Conference on Evaluation & Assessment in Software Engineering,10.1145/3530019.3531345,,54,S,-,-,-,SURV,N,yes
+R0019,database,Cross-Blockchain Technology: Integration Framework and Security Assumptions,2022,IEEE Access,10.1109/access.2022.3167172,,68,S,-,-,-,SURV,N,yes
+R0041,database,SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks,2022,International Conference on Blockchain,10.1109/icbc56567.2023.10174993,2210.16209,88,S,-,-,-,SURV,N,yes
+R0060,database,Blockchain Interoperability: Performance and Security Trade-Offs,2022,ACM International Conference on Embedded Networked Sensor Systems,10.1145/3560905.3568176,,13,S,-,-,-,SURV,N,yes
+R0269,database,A Survey on Privacy Protection of Cross-Chain,2022,Communications in computer and information science,10.1007/978-3-031-06764-8_23,,6,S,-,-,-,SURV,N,yes
+R0011,database,A survey on privacy preservation techniques for blockchain interoperability,2023,Journal of Systems Architecture,10.1016/j.sysarc.2023.102892,,59,S,-,-,-,SURV,N,yes
+R0036,database,Attacks Against Cross-Chain Systems and Defense Approaches: A Contemporary Survey,2023,IEEE/CAA Journal of Automatica Sinica,10.1109/jas.2023.123642,,83,S,-,-,-,SURV,N,yes
+R0182,database,Security Challenges in Building Blockchains Bridges and Countermeasures,2023,Evergreen,10.5109/7151703,,3,S,-,-,-,SURV,N,yes
+R0309,database,Blockchains and Cross-Blockchains: Privacy-Preserving Techniques,2023,Lecture notes in networks and systems,10.1007/978-3-031-22018-0_9,,1,S,-,-,-,SURV,N,yes
+R1299,database,Cross-Chain-Based Distributed Digital Identity: A Survey,2023,Lecture notes in computer science,10.1007/978-3-031-28124-2_50,,0,S,-,-,-,SURV,N,yes
+R0002,database,SoK: Security and Privacy of Blockchain Interoperability,2024,IEEE Symposium on Security and Privacy,10.1109/sp54263.2024.00255,,119,S,-,-,-,SURV,N,yes
+R0044,database,"Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and Future Outlook",2024,Distributed Ledger Technologies Research and Practice,10.1145/3696429,,51,S,-,-,-,SURV,N,yes
+R0066,database,"Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems",2024,International Symposium on Recent Advances in Intrusion Detection,10.1145/3678890.3678894,,40,S,-,-,-,SURV,N,yes
+R0032,database,"Blockchain Security in Focus: A Comprehensive Investigation Into Threats, Smart Contract Security, Cross-Chain Bridges, and Vulnerabilities Detection Tools and Techniques",2025,IEEE Access,10.1109/access.2025.3556499,,20,S,-,-,-,SURV,N,yes
+R0121,database,Cross-Chain Vulnerabilities in the Quantum Era: A Threat Analysis to Blockchain Interoperability,2025,2025 International Conference on Networks and Cryptology (NETCRYPT),10.1109/netcrypt65877.2025.11102585,,6,S,-,-,-,SURV,N,yes
+R0122,database,Security and Privacy in Permissioned Blockchain Interoperability: A Systematic Review,2025,"Computers, materials & continua/Computers, materials & continua (Print)",10.32604/cmc.2025.070413,,7,S,-,-,-,SURV,N,yes
+R0326,database,Security Challenges in Cross-Chain DeFi Applications,2025,2025 10th International Conference on Computer Science and Engineering (UBMK),10.1109/ubmk67458.2025.11206984,,1,S,-,-,-,SURV,N,yes
+R0351,database,SoK: cross-chain bridging architectural design flaws and mitigations,2025,Blockchain Research and Applications,10.1016/j.bcra.2025.100315,2403.00405,23,S,-,-,-,SURV,N,yes
+R0576,database,A Security Analysis of Web3.0 Cross-Chain Bridges,2025,"Proceedings of the 4th International Conference on Computer, Artificial Intelligence and Control Engineering",10.1145/3727648.3727685,,3,S,-,-,-,SURV,N,yes
+R0625,database,"Cross-Chain Overview: Development, Mechanisms, Protocols, Security, and Challenges",2025,Communications in computer and information science,10.1007/978-981-96-1414-1_3,,1,S,-,-,-,SURV,N,yes
+R0935,database,"Security difficulties and barriers in building decentralized blockchain bridges, solution methods",2025,CPITS II,,,0,S,-,-,-,SURV,N,yes
+R1120,database,Cross-Chain Interoperability Techniques and the Role of Zero-Knowledge Proofs,2025,"2025 International Conference on Computing, Intelligence, and Application (CIACON)",10.1109/ciacon65473.2025.11189597,,0,S,-,-,-,SURV,N,yes
+R1272,database,Bitcoin Cross-Chain Bridge: A Taxonomy and Its Promise in Artificial Intelligence of Things,2025,2025 IEEE Annual Congress on Artificial Intelligence of Things (AIoT),10.1109/aiot66900.2025.00091,2509.10413,5,S,-,-,-,SURV,N,yes
+R1327,database,Review on Cross-Chain Bridges for Data Verification,2025,"2025 5th International Conference on Neural Networks, Information and Communication Engineering (NNICE)",10.1109/nnice64954.2025.11064377,,0,S,-,-,-,SURV,N,yes
+R1868,database,Cross-chain Smart Contracts and dApps Verification by Static Analysis: Limits and Challenges,2025,ITASEC/SERICS,,,2,S,-,-,-,SURV,N,yes
+R1089,database,"A Survey of Blockchain Privacy Protection in Intra-Chain and Cross-Chain Scenarios: State-of-the-Art, Challenges, and Future Work",2026,IEEE Transactions on Big Data,10.1109/tbdata.2026.3687094,,0,S,-,-,-,SURV,N,yes
